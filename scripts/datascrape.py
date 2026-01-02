@@ -2,6 +2,8 @@ import requests
 import time
 import json
 import time
+import dotenv
+import os
 
 def check_rate_limit(session: requests.Session, github_url: str) -> None:
     query = """
@@ -129,13 +131,16 @@ def fetch_issues_paginated(session: requests.Session, github_url: str, max_nodes
 
 
 if __name__ == "__main__":
-    GITHUB_API_URL = "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"
+    dotenv.load_dotenv()
+    GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
+    if not GITHUB_TOKEN:
+        raise RuntimeError("GITHUB_TOKEN is not set; create a .env with GITHUB_TOKEN=<token>")
     github_url = "https://api.github.com/graphql"
 
     session = requests.Session()
     session.headers.update(
         {
-            "Authorization": f"Bearer {GITHUB_API_URL}",
+            "Authorization": f"Bearer {GITHUB_TOKEN}",
             "Content-Type": "application/json"
         }
     )
