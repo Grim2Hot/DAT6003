@@ -1,11 +1,9 @@
 import json
 
 def main(node_data: dict[str, dict], text_data: list[dict]) -> dict[str, dict]:
-    # Remove ids that were removed in cleaning step but not from the node data.
     cleaned_ids = {item.get("id") for item in text_data if item.get("id")}
     node_data = {key: value for key, value in node_data.items() if key in cleaned_ids}
-    
-    # Loop through cleaned text data and update node_data with cleaned text
+
     for item in text_data:
         item_id = item.get("id")
         cleaned_text = item.get("text")

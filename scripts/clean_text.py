@@ -22,7 +22,7 @@ EMOJI_RE = re.compile(
     "\U0001F900-\U0001F9FF"  # Supplemental Symbols and Pictographs
     "\U0001FA00-\U0001FA6F"  # Chess Symbols
     "\U0001FA70-\U0001FAFF"  # Symbols and Pictographs Extended-A
-    "\U00002702-\U000027B0"  # Dingbats (includes ❓)
+    "\U00002702-\U000027B0"  # Dingbats 
     "\U000024C2-\U0001F251"  # Enclosed characters
     "\U0001F900-\U0001F9FF"  # Supplemental Symbols
     "\U00002600-\U000027BF"  # Miscellaneous Symbols
@@ -211,7 +211,6 @@ def process_jsonl(in_path: str, out_path: str, cfg: CleanConfig = CleanConfig())
 
     for row in read_jsonl(in_path):
         raw = row['text']
-        # row is a string (from JSON)
         cleaned, meta = clean_github_text(raw, cfg)
         if cleaned is None:
             dropped += 1
