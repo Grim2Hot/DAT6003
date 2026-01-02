@@ -1,0 +1,1676 @@
+location,location_raw,location_norm,location_status,country_code,country
+China.Shanghai,China.Shanghai,china.shanghai,ambiguous,,
+"Pangyo, Korea","Pangyo, Korea","pangyo, korea",valid,KR,"Korea, Republic of"
+Tel Aviv,Tel Aviv,tel aviv,ambiguous,,
+WH,WH,wh,ambiguous,,
+"Live Oak, FL","Live Oak, FL","live oak, fl",valid,US,United States
+"San Jose, CA, US","San Jose, CA, US","san jose, ca, us",valid,US,United States
+anhui. hefei,anhui. hefei,anhui. hefei,ambiguous,,
+Wisconsin,Wisconsin,wisconsin,valid,US,United States
+"Nagpur, Maharashtra, India","Nagpur, Maharashtra, India","nagpur, maharashtra, india",valid,IN,India
+"Köln, Germany","Köln, Germany","köln, germany",valid,DE,Germany
+LA,LA,la,valid,US,United States
+"Rome, Italy","Rome, Italy","rome, italy",valid,IT,Italy
+suzhou,suzhou,suzhou,ambiguous,,
+中国.上海,中国.上海,中国.上海,ambiguous,,
+Talegaon D Pune MH,Talegaon D Pune MH,talegaon d pune mh,ambiguous,,
+"Goa , INDIA","Goa , INDIA","goa , india",valid,IN,India
+Jaipur,Jaipur,jaipur,ambiguous,,
+"The College of {Liberal Arts, Natural Sciences} The University of Texas at Austin 116 Inner Campus Dr Stop G6000 Austin, TX 78712","The College of {Liberal Arts, Natural Sciences} The University of Texas at Austin 116 Inner Campus Dr Stop G6000 Austin, TX 78712","the college of {liberal arts, natural sciences} the university of texas at austin 116 inner campus dr stop g6000 austin, tx 78712",valid,US,United States
+"Khuvsgul, Mongolia","Khuvsgul, Mongolia","khuvsgul, mongolia",valid,MN,Mongolia
+"Bielefeld, Germany","Bielefeld, Germany","bielefeld, germany",valid,DE,Germany
+"Guiyang Bank Headquarter, Changling N. Rd., Guanshanhu District, Guiyang, Guizhou Province, 550008, China ","Guiyang Bank Headquarter, Changling N. Rd., Guanshanhu District, Guiyang, Guizhou Province, 550008, China ","guiyang bank headquarter, changling n. rd., guanshanhu district, guiyang, guizhou province, 550008, china",valid,CN,China
+University of Oregon,University of Oregon,university of oregon,valid,US,United States
+Barcelona,Barcelona,barcelona,ambiguous,,
+"Chicago, IL","Chicago, IL","chicago, il",valid,US,United States
+Munich,Munich,munich,ambiguous,,
+Sheffield,Sheffield,sheffield,ambiguous,,
+Frankfurt am Main,Frankfurt am Main,frankfurt am main,ambiguous,,
+"Zhuhai, China","Zhuhai, China","zhuhai, china",valid,CN,China
+Canary Wharf (London),Canary Wharf (London),canary wharf (london),ambiguous,,
+"Univ. of Tsukuba, Japan","Univ. of Tsukuba, Japan","univ. of tsukuba, japan",valid,JP,Japan
+the Netherlands,the Netherlands,the netherlands,valid,NL,Netherlands
+Home,Home,home,non-geographic,,
+"Waterloo, Canada","Waterloo, Canada","waterloo, canada",valid,CA,Canada
+"Almaty, Kazakhstan","Almaty, Kazakhstan","almaty, kazakhstan",valid,KZ,Kazakhstan
+web,web,web,ambiguous,,
+Earth,Earth,earth,non-geographic,,
+Moscow,Moscow,moscow,ambiguous,,
+Shanghai PRC,Shanghai PRC,shanghai prc,ambiguous,,
+Chile,Chile,chile,valid,CL,Chile
+"Kolkata,India","Kolkata,India","kolkata,india",valid,IN,India
+"Murcia, Spain","Murcia, Spain","murcia, spain",valid,ES,Spain
+"Bologna, Italy","Bologna, Italy","bologna, italy",valid,IT,Italy
+"Fort Myers, FL","Fort Myers, FL","fort myers, fl",valid,US,United States
+"Hefei, China","Hefei, China","hefei, china",valid,CN,China
+Tucson,Tucson,tucson,ambiguous,,
+"Zürich, Switzerland","Zürich, Switzerland","zürich, switzerland",valid,CH,Switzerland
+"Bei Jing, China","Bei Jing, China","bei jing, china",valid,CN,China
+Islamabad,Islamabad,islamabad,ambiguous,,
+"Hyattsville, MD","Hyattsville, MD","hyattsville, md",valid,US,United States
+Bengaluru India,Bengaluru India,bengaluru india,valid,IN,India
+"Tbilisi, Georgia / Earth","Tbilisi, Georgia / Earth","tbilisi, georgia , earth",non-geographic,,
+"New York , New York","New York , New York","new york , new york",ambiguous,,
+"Milton Keynes, UK","Milton Keynes, UK","milton keynes, uk",valid,GB,United Kingdom
+Shanghai. China,Shanghai. China,shanghai. china,valid,CN,China
+Lisbon,Lisbon,lisbon,ambiguous,,
+"shanghai, China","shanghai, China","shanghai, china",valid,CN,China
+Dalkeith,Dalkeith,dalkeith,ambiguous,,
+"Amsterdam, The Netherlands","Amsterdam, The Netherlands","amsterdam, the netherlands",valid,NL,Netherlands
+"Cambridge, MA, US","Cambridge, MA, US","cambridge, ma, us",valid,US,United States
+"Palo Alto, CA, USA","Palo Alto, CA, USA","palo alto, ca, usa",valid,US,United States
+ベトナム,ベトナム,ベトナム,ambiguous,,
+PA,PA,pa,valid,US,United States
+"Bay Area, CA","Bay Area, CA","bay area, ca",valid,US,United States
+"Shang hai, China","Shang hai, China","shang hai, china",valid,CN,China
+"Warsaw, Poland","Warsaw, Poland","warsaw, poland",valid,PL,Poland
+"Dresden, Germany","Dresden, Germany","dresden, germany",valid,DE,Germany
+Philadelphia,Philadelphia,philadelphia,ambiguous,,
+"Dallas, Texas","Dallas, Texas","dallas, texas",valid,US,United States
+Edinburgh,Edinburgh,edinburgh,ambiguous,,
+"Leitza, Nafarroa, Euskal Herria","Leitza, Nafarroa, Euskal Herria","leitza, nafarroa, euskal herria",ambiguous,,
+"San Jose, CA","San Jose, CA","san jose, ca",valid,US,United States
+Istanbul/Turkiye,Istanbul/Turkiye,"istanbul,turkiye",ambiguous,,
+Depends,Depends,depends,ambiguous,,
+"Chennai, Tamil Nadu","Chennai, Tamil Nadu","chennai, tamil nadu",ambiguous,,
+"Chatham, ON Canada","Chatham, ON Canada","chatham, on canada",valid,CA,Canada
+Guang zhou,Guang zhou,guang zhou,ambiguous,,
+"Changchun,China","Changchun,China","changchun,china",valid,CN,China
+"Nuremberg, Germany","Nuremberg, Germany","nuremberg, germany",valid,DE,Germany
+East lansing,East lansing,east lansing,ambiguous,,
+Delhi,Delhi,delhi,ambiguous,,
+"Raleigh, NC, US","Raleigh, NC, US","raleigh, nc, us",valid,US,United States
+Bangalore <-> Guwahati,Bangalore <-> Guwahati,bangalore <-> guwahati,ambiguous,,
+"Montréal, Québec ","Montréal, Québec ","montréal, québec",ambiguous,,
+"Dallas, TX, USA","Dallas, TX, USA","dallas, tx, usa",valid,US,United States
+bangalore,bangalore,bangalore,ambiguous,,
+"Sophia-Antipolis, Valbonne","Sophia-Antipolis, Valbonne","sophia-antipolis, valbonne",ambiguous,,
+Earth-0,Earth-0,earth-0,non-geographic,,
+"hyderabad, india","hyderabad, india","hyderabad, india",valid,IN,India
+"São Paulo, SP, Brazil","São Paulo, SP, Brazil","são paulo, sp, brazil",valid,BR,Brazil
+"Sendai, Japan ","Sendai, Japan ","sendai, japan",valid,JP,Japan
+"Paris, France","Paris, France","paris, france",valid,FR,France
+Ahmedabad,Ahmedabad,ahmedabad,ambiguous,,
+Coimbatore,Coimbatore,coimbatore,ambiguous,,
+Germany,Germany,germany,valid,DE,Germany
+Guangzhou,Guangzhou,guangzhou,ambiguous,,
+"Nanjing,China","Nanjing,China","nanjing,china",valid,CN,China
+Peking,Peking,peking,ambiguous,,
+"Belfort, France","Belfort, France","belfort, france",valid,FR,France
+Israel,Israel,israel,valid,IL,Israel
+"Antarctic, South Pole","Antarctic, South Pole","antarctic, south pole",ambiguous,,
+"Antwerp, Belgium","Antwerp, Belgium","antwerp, belgium",valid,BE,Belgium
+"Charlottesville, VA","Charlottesville, VA","charlottesville, va",valid,US,United States
+"Tromsø, Norway","Tromsø, Norway","tromsø, norway",valid,NO,Norway
+london,london,london,ambiguous,,
+Ulsan,Ulsan,ulsan,ambiguous,,
+"Ottawa, ON","Ottawa, ON","ottawa, on",valid,CA,Canada
+"Hangzhou, CHINA","Hangzhou, CHINA","hangzhou, china",valid,CN,China
+ Shenzhen, Shenzhen,shenzhen,ambiguous,,
+San Francisco Bay Area,San Francisco Bay Area,san francisco bay area,ambiguous,,
+"Beijing, China ","Beijing, China ","beijing, china",valid,CN,China
+University of Science and Technology of China,University of Science and Technology of China,university of science and technology of china,valid,CN,China
+South KR,South KR,south kr,ambiguous,,
+Poznan,Poznan,poznan,ambiguous,,
+"Seoul, South Korea","Seoul, South Korea","seoul, south korea",valid,KR,"Korea, Republic of"
+Shenyang,Shenyang,shenyang,ambiguous,,
+"Austin, Texas, USA","Austin, Texas, USA","austin, texas, usa",valid,US,United States
+Palaiseau,Palaiseau,palaiseau,ambiguous,,
+"India, Mumbai","India, Mumbai","india, mumbai",valid,IN,India
+Braunschweig,Braunschweig,braunschweig,ambiguous,,
+"Seoul, Republic of Korea","Seoul, Republic of Korea","seoul, republic of korea",valid,KR,"Korea, Republic of"
+~,~,~,ambiguous,,
+🇮🇳,🇮🇳,,missing,,
+"~Miami, FL","~Miami, FL","~miami, fl",valid,US,United States
+"Bucaramanga, Santander","Bucaramanga, Santander","bucaramanga, santander",ambiguous,,
+sf,sf,sf,ambiguous,,
+"Mérida, Yucatán","Mérida, Yucatán","mérida, yucatán",ambiguous,,
+"Ithaca, NY","Ithaca, NY","ithaca, ny",valid,US,United States
+"Panjim, Goa, India","Panjim, Goa, India","panjim, goa, india",valid,IN,India
+"Dallas, United States","Dallas, United States","dallas, united states",valid,US,United States
+Tianjin China,Tianjin China,tianjin china,valid,CN,China
+"Ontario, Canada","Ontario, Canada","ontario, canada",valid,CA,Canada
+Penang,Penang,penang,ambiguous,,
+"Mountain View, CA 94043","Mountain View, CA 94043","mountain view, ca 94043",valid,US,United States
+"Illinois, USA","Illinois, USA","illinois, usa",valid,US,United States
+"Hsinchu, Taiwan","Hsinchu, Taiwan","hsinchu, taiwan",valid,TW,"Taiwan, Province of China"
+kerala,kerala,kerala,ambiguous,,
+Vibo Valentia,Vibo Valentia,vibo valentia,ambiguous,,
+"Sorocaba, Brazil","Sorocaba, Brazil","sorocaba, brazil",valid,BR,Brazil
+Nigeria,Nigeria,nigeria,valid,NG,Nigeria
+"Bloomington, Indiana","Bloomington, Indiana","bloomington, indiana",valid,US,United States
+"Maringá, Paraná, Brazil.","Maringá, Paraná, Brazil.","maringá, paraná, brazil",valid,BR,Brazil
+Berlin,Berlin,berlin,ambiguous,,
+" HaNoi, Vietnam"," HaNoi, Vietnam","hanoi, vietnam",ambiguous,,
+Cincinnati,Cincinnati,cincinnati,ambiguous,,
+nvidia-smi,nvidia-smi,nvidia-smi,ambiguous,,
+"Santa Clara, California","Santa Clara, California","santa clara, california",valid,US,United States
+Menlo Park,Menlo Park,menlo park,ambiguous,,
+"Mumbai, Maharashtra","Mumbai, Maharashtra","mumbai, maharashtra",ambiguous,,
+Gurgaon,Gurgaon,gurgaon,ambiguous,,
+Eindhoven,Eindhoven,eindhoven,ambiguous,,
+Ganzhou JiangXi,Ganzhou JiangXi,ganzhou jiangxi,ambiguous,,
+"Gurgaon, India","Gurgaon, India","gurgaon, india",valid,IN,India
+"Oeiras, Portugal","Oeiras, Portugal","oeiras, portugal",valid,PT,Portugal
+"Kanpur, India","Kanpur, India","kanpur, india",valid,IN,India
+Bay Area,Bay Area,bay area,ambiguous,,
+"Utrecht, NL","Utrecht, NL","utrecht, nl",valid,CA,Canada
+Pune,Pune,pune,ambiguous,,
+Zurich ,Zurich ,zurich,ambiguous,,
+"Washington, United States","Washington, United States","washington, united states",valid,US,United States
+"Bellevue, WA","Bellevue, WA","bellevue, wa",valid,US,United States
+Wuxi， China,Wuxi， China,"wuxi, china",valid,CN,China
+"CA, USA","CA, USA","ca, usa",valid,US,United States
+ Beijing China, Beijing China,beijing china,valid,CN,China
+"Järfälla, Sweden","Järfälla, Sweden","järfälla, sweden",valid,SE,Sweden
+"State College, PA","State College, PA","state college, pa",valid,US,United States
+DELHI,DELHI,delhi,ambiguous,,
+"Toronto, ON","Toronto, ON","toronto, on",valid,CA,Canada
+Ho Chi Minh city,Ho Chi Minh city,ho chi minh city,ambiguous,,
+Waterloo,Waterloo,waterloo,ambiguous,,
+JAPAN,JAPAN,japan,valid,JP,Japan
+Glasgow,Glasgow,glasgow,ambiguous,,
+Yay Area,Yay Area,yay area,ambiguous,,
+Brasil,Brasil,brasil,ambiguous,,
+Bratislava,Bratislava,bratislava,ambiguous,,
+"Incheon, South Korea","Incheon, South Korea","incheon, south korea",valid,KR,"Korea, Republic of"
+"Casablanca, Morocco","Casablanca, Morocco","casablanca, morocco",valid,MA,Morocco
+"Tokyo, Japan","Tokyo, Japan","tokyo, japan",valid,JP,Japan
+Bonn,Bonn,bonn,ambiguous,,
+"Seattle, WA, the United States","Seattle, WA, the United States","seattle, wa, the united states",valid,US,United States
+"Kolkata, India","Kolkata, India","kolkata, india",valid,IN,India
+"Montreal, Canada","Montreal, Canada","montreal, canada",valid,CA,Canada
+Bangladesh,Bangladesh,bangladesh,valid,BD,Bangladesh
+German,German,german,ambiguous,,
+"Champaign, Illinois","Champaign, Illinois","champaign, illinois",valid,US,United States
+Helsinki,Helsinki,helsinki,ambiguous,,
+"Europe, Italy","Europe, Italy","europe, italy",valid,IT,Italy
+"Mumbai, India","Mumbai, India","mumbai, india",valid,IN,India
+Zimbabwe,Zimbabwe,zimbabwe,valid,ZW,Zimbabwe
+Washington,Washington,washington,valid,US,United States
+中国,中国,中国,ambiguous,,
+"Frankfurt am Main, Germany","Frankfurt am Main, Germany","frankfurt am main, germany",valid,DE,Germany
+Suginami Tokyo,Suginami Tokyo,suginami tokyo,ambiguous,,
+"Hillsboro, Oregon","Hillsboro, Oregon","hillsboro, oregon",valid,US,United States
+UCF,UCF,ucf,ambiguous,,
+Russia,Russia,russia,valid,RU,Russian Federation
+Palermo,Palermo,palermo,ambiguous,,
+"Chendu, Sichuan","Chendu, Sichuan","chendu, sichuan",ambiguous,,
+"Bunkyo, Tokyo, Japan","Bunkyo, Tokyo, Japan","bunkyo, tokyo, japan",valid,JP,Japan
+Heidelberg,Heidelberg,heidelberg,ambiguous,,
+munich,munich,munich,ambiguous,,
+Costa Rica,Costa Rica,costa rica,valid,CR,Costa Rica
+Carnegie Mellon University,Carnegie Mellon University,carnegie mellon university,ambiguous,,
+"Stony Brook, NY","Stony Brook, NY","stony brook, ny",valid,US,United States
+San Francisco <> Israel,San Francisco <> Israel,san francisco <> israel,valid,IL,Israel
+(future - past).src,(future - past).src,(future - past).src,ambiguous,,
+Seattle WA,Seattle WA,seattle wa,valid,US,United States
+"Rochester, New York, USA","Rochester, New York, USA","rochester, new york, usa",valid,US,United States
+"Abuja, Nigeria","Abuja, Nigeria","abuja, nigeria",valid,NG,Nigeria
+Republic of Korea,Republic of Korea,republic of korea,valid,KR,"Korea, Republic of"
+"Hangzhou, Zhejiang","Hangzhou, Zhejiang","hangzhou, zhejiang",ambiguous,,
+xinjiang urumqi,xinjiang urumqi,xinjiang urumqi,ambiguous,,
+"Tuscaloosa, AL","Tuscaloosa, AL","tuscaloosa, al",valid,US,United States
+"New Hampshire, USA","New Hampshire, USA","new hampshire, usa",valid,US,United States
+Geneva,Geneva,geneva,ambiguous,,
+,nan,nan,missing,,
+Florida,Florida,florida,valid,US,United States
+melbourne,melbourne,melbourne,ambiguous,,
+"Columbia, MD","Columbia, MD","columbia, md",valid,US,United States
+東,東,東,ambiguous,,
+"Basundhara, Dhaka, Bangladesh","Basundhara, Dhaka, Bangladesh","basundhara, dhaka, bangladesh",valid,BD,Bangladesh
+" Washington, DC Metro "," Washington, DC Metro ","washington, dc metro",valid,US,United States
+"West Hartford, CT","West Hartford, CT","west hartford, ct",valid,US,United States
+"Rochester, New York","Rochester, New York","rochester, new york",ambiguous,,
+Latent feature space,Latent feature space,latent feature space,ambiguous,,
+USA,USA,usa,valid,US,United States
+"Istanbul, Turkey","Istanbul, Turkey","istanbul, turkey",ambiguous,,
+"shenzhen,china","shenzhen,china","shenzhen,china",valid,CN,China
+"Chittagong , Bangladesh ","Chittagong , Bangladesh ","chittagong , bangladesh",valid,BD,Bangladesh
+"Ho Chi Minh city, Vietnam","Ho Chi Minh city, Vietnam","ho chi minh city, vietnam",ambiguous,,
+"Minneapolis, MN","Minneapolis, MN","minneapolis, mn",valid,US,United States
+"Rybacka 7/I floor, 53-656 Wrocław","Rybacka 7/I floor, 53-656 Wrocław","rybacka 7,i floor, 53-656 wrocław",ambiguous,,
+"Ponta Porã MS, Brazil","Ponta Porã MS, Brazil","ponta porã ms, brazil",valid,BR,Brazil
+Singapore/Pittsburgh,Singapore/Pittsburgh,"singapore,pittsburgh",valid,SG,Singapore
+CHINA HUBEI WUHAN ,CHINA HUBEI WUHAN ,china hubei wuhan,valid,CN,China
+"Chengdu,Sichuan,China","Chengdu,Sichuan,China","chengdu,sichuan,china",valid,CN,China
+"Harbin, China","Harbin, China","harbin, china",valid,CN,China
+Baton Rouge,Baton Rouge,baton rouge,ambiguous,,
+Paris - FR,Paris - FR,paris - fr,ambiguous,,
+Mountain View/LA,Mountain View/LA,"mountain view,la",valid,US,United States
+Penang / Selangor,Penang / Selangor,"penang , selangor",ambiguous,,
+HSR,HSR,hsr,ambiguous,,
+"Hangzhou, China","Hangzhou, China","hangzhou, china",valid,CN,China
+"Gig Harbor, WA","Gig Harbor, WA","gig harbor, wa",valid,US,United States
+Kanpur,Kanpur,kanpur,ambiguous,,
+Greater New York,Greater New York,greater new york,ambiguous,,
+Poznań,Poznań,poznań,ambiguous,,
+Beijing,Beijing,beijing,ambiguous,,
+Cambridge,Cambridge,cambridge,ambiguous,,
+Alicante (Spain),Alicante (Spain),alicante (spain),ambiguous,,
+United-Kingdom,United-Kingdom,united-kingdom,ambiguous,,
+"Philadelphia, PA","Philadelphia, PA","philadelphia, pa",valid,US,United States
+Mykolaiv,Mykolaiv,mykolaiv,ambiguous,,
+São Carlos,São Carlos,são carlos,ambiguous,,
+"Reykjavík, Iceland","Reykjavík, Iceland","reykjavík, iceland",valid,IS,Iceland
+"Seattle, Washington , USA","Seattle, Washington , USA","seattle, washington , usa",valid,US,United States
+"Salzburg, Austria","Salzburg, Austria","salzburg, austria",valid,AT,Austria
+GH,GH,gh,ambiguous,,
+Guangdong Shenzhen,Guangdong Shenzhen,guangdong shenzhen,ambiguous,,
+"Jersey City, NJ","Jersey City, NJ","jersey city, nj",valid,JE,Jersey
+Bucharest,Bucharest,bucharest,ambiguous,,
+"Turkey,Istanbul","Turkey,Istanbul","turkey,istanbul",ambiguous,,
+Haidian-Beijing,Haidian-Beijing,haidian-beijing,ambiguous,,
+"RUSSIA, VOLGOGRAD","RUSSIA, VOLGOGRAD","russia, volgograd",valid,RU,Russian Federation
+"Berkeley, CA","Berkeley, CA","berkeley, ca",valid,US,United States
+"Sunnyvale, CA, USA","Sunnyvale, CA, USA","sunnyvale, ca, usa",valid,US,United States
+Trondheim 🇳🇴,Trondheim 🇳🇴,trondheim,ambiguous,,
+Changsha，China,Changsha，China,"changsha,china",valid,CN,China
+HD,HD,hd,ambiguous,,
+"Pittsburgh, PA, USA","Pittsburgh, PA, USA","pittsburgh, pa, usa",valid,US,United States
+Wolverhampton,Wolverhampton,wolverhampton,ambiguous,,
+"Newark, New Jersey","Newark, New Jersey","newark, new jersey",valid,JE,Jersey
+"Mannheim, Germany","Mannheim, Germany","mannheim, germany",valid,DE,Germany
+"Guangdong, China","Guangdong, China","guangdong, china",valid,CN,China
+"Nijmegen, The Netherlands","Nijmegen, The Netherlands","nijmegen, the netherlands",valid,NL,Netherlands
+Benin,Benin,benin,valid,BJ,Benin
+"Iran, Kashan","Iran, Kashan","iran, kashan",valid,IR,"Iran, Islamic Republic of"
+"Austin, Texas","Austin, Texas","austin, texas",valid,US,United States
+"Basel / Zürich, Switzerland","Basel / Zürich, Switzerland","basel , zürich, switzerland",valid,CH,Switzerland
+Tangail,Tangail,tangail,ambiguous,,
+"State College, USA","State College, USA","state college, usa",valid,US,United States
+Toulouse ,Toulouse ,toulouse,ambiguous,,
+Canada,Canada,canada,valid,CA,Canada
+bengaluru,bengaluru,bengaluru,ambiguous,,
+"Scotland, United Kingdom","Scotland, United Kingdom","scotland, united kingdom",valid,GB,United Kingdom
+Nairobi,Nairobi,nairobi,ambiguous,,
+San Diego,San Diego,san diego,ambiguous,,
+"Ankara, Turkey","Ankara, Turkey","ankara, turkey",ambiguous,,
+"Richland, WA","Richland, WA","richland, wa",valid,US,United States
+Kazakhstan,Kazakhstan,kazakhstan,valid,KZ,Kazakhstan
+"Pohang, Korea","Pohang, Korea","pohang, korea",valid,KR,"Korea, Republic of"
+Fudan University,Fudan University,fudan university,ambiguous,,
+Singapore ,Singapore ,singapore,valid,SG,Singapore
+C-137,C-137,c-137,ambiguous,,
+US,US,us,ambiguous,,
+Kaunas,Kaunas,kaunas,ambiguous,,
+"Cúcuta, Colombia","Cúcuta, Colombia","cúcuta, colombia",valid,CO,Colombia
+"Denver, CO","Denver, CO","denver, co",valid,US,United States
+"Eindhoven, Netherlands","Eindhoven, Netherlands","eindhoven, netherlands",valid,NL,Netherlands
+"Barcelona, Spain","Barcelona, Spain","barcelona, spain",valid,ES,Spain
+"New York, NY, US","New York, NY, US","new york, ny, us",valid,US,United States
+Santiago de Chile,Santiago de Chile,santiago de chile,valid,US,United States
+ShangHai,ShangHai,shanghai,ambiguous,,
+"Split, Croatia","Split, Croatia","split, croatia",valid,HR,Croatia
+"Herzeliya, Israel","Herzeliya, Israel","herzeliya, israel",valid,IL,Israel
+"Bavarian Oberland, Germany","Bavarian Oberland, Germany","bavarian oberland, germany",valid,DE,Germany
+Kuala Lumpur,Kuala Lumpur,kuala lumpur,ambiguous,,
+"Doha, Qatar","Doha, Qatar","doha, qatar",valid,QA,Qatar
+"thessaloniki, greece","thessaloniki, greece","thessaloniki, greece",valid,GR,Greece
+"San Francisco Bay Area, California","San Francisco Bay Area, California","san francisco bay area, california",valid,US,United States
+"Thuwal, Saudi Arabia","Thuwal, Saudi Arabia","thuwal, saudi arabia",valid,SA,Saudi Arabia
+Los Angeles,Los Angeles,los angeles,ambiguous,,
+"China, SuZhou","China, SuZhou","china, suzhou",valid,CN,China
+Brooklyn,Brooklyn,brooklyn,ambiguous,,
+"Brisbane, Australia","Brisbane, Australia","brisbane, australia",valid,AU,Australia
+"OK, USA","OK, USA","ok, usa",valid,US,United States
+"Leiden, Netherlands","Leiden, Netherlands","leiden, netherlands",valid,NL,Netherlands
+"Lowell, MA","Lowell, MA","lowell, ma",valid,US,United States
+"Nea Efessos,Pieria,Greece","Nea Efessos,Pieria,Greece","nea efessos,pieria,greece",valid,GR,Greece
+Bharat | India,Bharat | India,"bharat , india",valid,IN,India
+Slovakia,Slovakia,slovakia,valid,SK,Slovakia
+"Dhaka, Bangladesh","Dhaka, Bangladesh","dhaka, bangladesh",valid,BD,Bangladesh
+da nang,da nang,da nang,ambiguous,,
+Tokyo,Tokyo,tokyo,ambiguous,,
+Parbold,Parbold,parbold,ambiguous,,
+Ukraine,Ukraine,ukraine,valid,UA,Ukraine
+Taiwan Taipei,Taiwan Taipei,taiwan taipei,valid,TW,"Taiwan, Province of China"
+China Harbin,China Harbin,china harbin,valid,CN,China
+"Oulu, Finland","Oulu, Finland","oulu, finland",valid,FI,Finland
+"Mumbai, India ","Mumbai, India ","mumbai, india",valid,IN,India
+Berkeley | Cambridge | Toronto,Berkeley | Cambridge | Toronto,"berkeley , cambridge , toronto",ambiguous,,
+"Geneva, Switzerland","Geneva, Switzerland","geneva, switzerland",valid,CH,Switzerland
+"Wuhan, Hubei; HK; Boston ","Wuhan, Hubei; HK; Boston ","wuhan, hubei, hk, boston",ambiguous,,
+Shaanxi Province,Shaanxi Province,shaanxi province,ambiguous,,
+"Paris, FR","Paris, FR","paris, fr",ambiguous,,
+Tatooine,Tatooine,tatooine,ambiguous,,
+"Munich, Germany","Munich, Germany","munich, germany",valid,DE,Germany
+"Kraków, Poland","Kraków, Poland","kraków, poland",valid,PL,Poland
+"HangZhou, ZheJiang, China","HangZhou, ZheJiang, China","hangzhou, zhejiang, china",valid,CN,China
+Harbin China.,Harbin China.,harbin china,valid,CN,China
+Linköping,Linköping,linköping,ambiguous,,
+Chicago IL,Chicago IL,chicago il,valid,US,United States
+London ,London ,london,ambiguous,,
+Vancouver/Seattle/Bay,Vancouver/Seattle/Bay,"vancouver,seattle,bay",ambiguous,,
+"Boston, MA","Boston, MA","boston, ma",valid,US,United States
+"Beirut, LB","Beirut, LB","beirut, lb",ambiguous,,
+"Hangzhou, Zhejiang, China","Hangzhou, Zhejiang, China","hangzhou, zhejiang, china",valid,CN,China
+Greater Philadelphia,Greater Philadelphia,greater philadelphia,ambiguous,,
+"Utrecht, the Netherlands ","Utrecht, the Netherlands ","utrecht, the netherlands",valid,NL,Netherlands
+"A Coruña, Spain","A Coruña, Spain","a coruña, spain",valid,ES,Spain
+Washington State,Washington State,washington state,valid,US,United States
+Itapevi - São Paulo,Itapevi - São Paulo,itapevi - são paulo,ambiguous,,
+"New Delhi, India","New Delhi, India","new delhi, india",valid,IN,India
+Dominican Republic,Dominican Republic,dominican republic,valid,DO,Dominican Republic
+ChinaShanghai,ChinaShanghai,chinashanghai,ambiguous,,
+Paris (France),Paris (France),paris (france),ambiguous,,
+United Kingdom,United Kingdom,united kingdom,valid,GB,United Kingdom
+Greater New York Area,Greater New York Area,greater new york area,ambiguous,,
+Calgary,Calgary,calgary,ambiguous,,
+brazil,brazil,brazil,valid,BR,Brazil
+"Xiamen,Fujian,China","Xiamen,Fujian,China","xiamen,fujian,china",valid,CN,China
+seoul,seoul,seoul,ambiguous,,
+"Suzhou,Jiangsu Province, China","Suzhou,Jiangsu Province, China","suzhou,jiangsu province, china",valid,CN,China
+Johannesburg,Johannesburg,johannesburg,ambiguous,,
+"Milano,Italy","Milano,Italy","milano,italy",valid,IT,Italy
+Canberra Australia,Canberra Australia,canberra australia,valid,AU,Australia
+"Amherst, Massachusetts, United States","Amherst, Massachusetts, United States","amherst, massachusetts, united states",valid,US,United States
+"Belgrade, Serbia","Belgrade, Serbia","belgrade, serbia",valid,RS,Serbia
+"South Jordan, UT","South Jordan, UT","south jordan, ut",valid,JO,Jordan
+"Rajsamand, Rajasthan, India","Rajsamand, Rajasthan, India","rajsamand, rajasthan, india",valid,IN,India
+"Russian Federation, Nizhny Novgorod","Russian Federation, Nizhny Novgorod","russian federation, nizhny novgorod",valid,RU,Russian Federation
+"Kedah, Malaysia","Kedah, Malaysia","kedah, malaysia",valid,MY,Malaysia
+"Scotland, UK","Scotland, UK","scotland, uk",valid,GB,United Kingdom
+Cluj-Napoca,Cluj-Napoca,cluj-napoca,ambiguous,,
+"France, Paris","France, Paris","france, paris",valid,FR,France
+"La Paz, Bolivia","La Paz, Bolivia","la paz, bolivia",valid,US,United States
+Pittsburgh,Pittsburgh,pittsburgh,ambiguous,,
+Santa Barbara,Santa Barbara,santa barbara,ambiguous,,
+WA,WA,wa,valid,US,United States
+Mauritius,Mauritius,mauritius,valid,MU,Mauritius
+Ankara/Turkey,Ankara/Turkey,"ankara,turkey",ambiguous,,
+"Hyderabad,India","Hyderabad,India","hyderabad,india",valid,IN,India
+"Yerevan, Yerevan, Armenia","Yerevan, Yerevan, Armenia","yerevan, yerevan, armenia",valid,AM,Armenia
+"Jodhpur, RJ, India.","Jodhpur, RJ, India.","jodhpur, rj, india",valid,IN,India
+Boulder,Boulder,boulder,ambiguous,,
+"Urbana, IL","Urbana, IL","urbana, il",valid,US,United States
+"Ann Arbor, Michigan","Ann Arbor, Michigan","ann arbor, michigan",valid,US,United States
+"Kent Street, Bentley WA 6102","Kent Street, Bentley WA 6102","kent street, bentley wa 6102",valid,US,United States
+"Champaign, IL","Champaign, IL","champaign, il",valid,US,United States
+Stockholm,Stockholm,stockholm,ambiguous,,
+San Jose,San Jose,san jose,ambiguous,,
+"Seattle, WA USA","Seattle, WA USA","seattle, wa usa",valid,US,United States
+La Jolla,La Jolla,la jolla,valid,US,United States
+Shanghai China,Shanghai China,shanghai china,valid,CN,China
+Pune.IN,Pune.IN,pune.in,ambiguous,,
+"Utrecht, Netherlands","Utrecht, Netherlands","utrecht, netherlands",valid,NL,Netherlands
+"Den Bosch, Netherlands","Den Bosch, Netherlands","den bosch, netherlands",valid,NL,Netherlands
+Pittsburgh PA,Pittsburgh PA,pittsburgh pa,valid,US,United States
+"Beersheba, Israel","Beersheba, Israel","beersheba, israel",valid,IL,Israel
+"Astrakhan, Russia","Astrakhan, Russia","astrakhan, russia",valid,RU,Russian Federation
+Hyderabad ,Hyderabad ,hyderabad,ambiguous,,
+Nowhere,Nowhere,nowhere,ambiguous,,
+Beijing.China,Beijing.China,beijing.china,ambiguous,,
+"Switzerland, Lugano","Switzerland, Lugano","switzerland, lugano",valid,CH,Switzerland
+"Washington, DC, United States","Washington, DC, United States","washington, dc, united states",valid,US,United States
+Salt Lake City,Salt Lake City,salt lake city,ambiguous,,
+Thailand,Thailand,thailand,valid,TH,Thailand
+"Istanbul,Turkey","Istanbul,Turkey","istanbul,turkey",ambiguous,,
+"Bay Area, US","Bay Area, US","bay area, us",ambiguous,,
+Bern,Bern,bern,ambiguous,,
+"Austin, Tx","Austin, Tx","austin, tx",valid,US,United States
+João Pessoa - PB,João Pessoa - PB,joão pessoa - pb,ambiguous,,
+Abu Dhabi - UAE,Abu Dhabi - UAE,abu dhabi - uae,ambiguous,,
+"Oxford, MS","Oxford, MS","oxford, ms",valid,US,United States
+"New Canaan, CT","New Canaan, CT","new canaan, ct",valid,US,United States
+Firenze,Firenze,firenze,ambiguous,,
+"Cambridge, UK / Palo Alto, CA","Cambridge, UK / Palo Alto, CA","cambridge, uk , palo alto, ca",valid,GB,United Kingdom
+"Cologne, Germany","Cologne, Germany","cologne, germany",valid,DE,Germany
+"Xining, Qinghai","Xining, Qinghai","xining, qinghai",ambiguous,,
+"Beijing,China","Beijing,China","beijing,china",valid,CN,China
+"grenoble, france","grenoble, france","grenoble, france",valid,FR,France
+"Daejeon, Republic of Korea","Daejeon, Republic of Korea","daejeon, republic of korea",valid,KR,"Korea, Republic of"
+California/New York,California/New York,"california,new york",valid,US,United States
+Karlsruhe (Germany),Karlsruhe (Germany),karlsruhe (germany),ambiguous,,
+"Newcastle-Upon-Tyne, England","Newcastle-Upon-Tyne, England","newcastle-upon-tyne, england",ambiguous,,
+"Daejeon, Korea, Republic of","Daejeon, Korea, Republic of","daejeon, korea, republic of",valid,KR,"Korea, Republic of"
+Munich/Germany,Munich/Germany,"munich,germany",valid,DE,Germany
+Jerusalem,Jerusalem,jerusalem,ambiguous,,
+"Batumi, Georgia","Batumi, Georgia","batumi, georgia",valid,GE,Georgia
+New York ,New York ,new york,ambiguous,,
+"Italy, Bologna ","Italy, Bologna ","italy, bologna",valid,IT,Italy
+Venice Beach,Venice Beach,venice beach,ambiguous,,
+"Kolhapur,india","Kolhapur,india","kolhapur,india",valid,IN,India
+Stuttgart,Stuttgart,stuttgart,ambiguous,,
+"Dublin, Ireland","Dublin, Ireland","dublin, ireland",valid,IE,Ireland
+"No.96, JinZhai Road Baohe District, Hefei, Anhui, 230026, P.R.China.","No.96, JinZhai Road Baohe District, Hefei, Anhui, 230026, P.R.China.","no.96, jinzhai road baohe district, hefei, anhui, 230026, p.r.china",ambiguous,,
+Ribeirão Preto,Ribeirão Preto,ribeirão preto,ambiguous,,
+Singapore / Xi'An,Singapore / Xi'An,"singapore , xian",valid,SG,Singapore
+"University of California, Berkeley","University of California, Berkeley","university of california, berkeley",valid,US,United States
+" Bengaluru, Karnataka "," Bengaluru, Karnataka ","bengaluru, karnataka",ambiguous,,
+"JiNan,China","JiNan,China","jinan,china",valid,CN,China
+Polska,Polska,polska,ambiguous,,
+"IAU #90377 (Sedna), IAU #137924 (2000 BD19), IAU #85770 (1998 UP1), IAU #66063 (1998 RO1), and minor planet 1992 TY₁. from 2025 Feb 25.","IAU #90377 (Sedna), IAU #137924 (2000 BD19), IAU #85770 (1998 UP1), IAU #66063 (1998 RO1), and minor planet 1992 TY₁. from 2025 Feb 25.","iau #90377 (sedna), iau #137924 (2000 bd19), iau #85770 (1998 up1), iau #66063 (1998 ro1), and minor planet 1992 ty1. from 2025 feb 25",ambiguous,,
+Basel,Basel,basel,ambiguous,,
+"Den Bosch, NL","Den Bosch, NL","den bosch, nl",valid,CA,Canada
+Malaysian in China,Malaysian in China,malaysian in china,valid,US,United States
+UK,UK,uk,valid,GB,United Kingdom
+Tampa,Tampa,tampa,ambiguous,,
+England,England,england,ambiguous,,
+"Delhi, India","Delhi, India","delhi, india",valid,IN,India
+Shang hai,Shang hai,shang hai,ambiguous,,
+Tsinghua University,Tsinghua University,tsinghua university,ambiguous,,
+Montréal,Montréal,montréal,ambiguous,,
+"Stanford, California","Stanford, California","stanford, california",valid,US,United States
+"Jyväskylä, Finland","Jyväskylä, Finland","jyväskylä, finland",valid,FI,Finland
+"Arlington, TX","Arlington, TX","arlington, tx",valid,US,United States
+"Fairfax, VA, United States","Fairfax, VA, United States","fairfax, va, united states",valid,US,United States
+"Washington DC, USA","Washington DC, USA","washington dc, usa",valid,US,United States
+"Seoul, Republic Of Korea","Seoul, Republic Of Korea","seoul, republic of korea",valid,KR,"Korea, Republic of"
+Digital Nomad,Digital Nomad,digital nomad,ambiguous,,
+Bellevue,Bellevue,bellevue,ambiguous,,
+"Pittsburgh, USA","Pittsburgh, USA","pittsburgh, usa",valid,US,United States
+"Kathmandu, Nepal","Kathmandu, Nepal","kathmandu, nepal",valid,NP,Nepal
+"Hanover, Germany","Hanover, Germany","hanover, germany",valid,DE,Germany
+"Ludiana, Punjab","Ludiana, Punjab","ludiana, punjab",ambiguous,,
+"Quebec, QC, Canada","Quebec, QC, Canada","quebec, qc, canada",valid,CA,Canada
+"Wuxi, China","Wuxi, China","wuxi, china",valid,CN,China
+Dhaka,Dhaka,dhaka,ambiguous,,
+"san francisco, ca","san francisco, ca","san francisco, ca",valid,US,United States
+Boston area,Boston area,boston area,ambiguous,,
+"Shang Hai, China","Shang Hai, China","shang hai, china",valid,CN,China
+nigeria,nigeria,nigeria,valid,NG,Nigeria
+Ann Arbor,Ann Arbor,ann arbor,ambiguous,,
+Oslo,Oslo,oslo,ambiguous,,
+Pittsbburgh,Pittsbburgh,pittsbburgh,ambiguous,,
+Worcester,Worcester,worcester,ambiguous,,
+"Würzburg, Germany","Würzburg, Germany","würzburg, germany",valid,DE,Germany
+Mountain View,Mountain View,mountain view,ambiguous,,
+Berlin + New York,Berlin + New York,berlin + new york,ambiguous,,
+Auburn University,Auburn University,auburn university,ambiguous,,
+Finland,Finland,finland,valid,FI,Finland
+"New York, New York","New York, New York","new york, new york",ambiguous,,
+Bangalore | Hyderabad | Chennai | Doha,Bangalore | Hyderabad | Chennai | Doha,"bangalore , hyderabad , chennai , doha",ambiguous,,
+"Tunisia, Tunis","Tunisia, Tunis","tunisia, tunis",valid,TN,Tunisia
+East Lansing,East Lansing,east lansing,ambiguous,,
+Natal - RN - Brasil,Natal - RN - Brasil,natal - rn - brasil,ambiguous,,
+Saint Petersburg,Saint Petersburg,saint petersburg,ambiguous,,
+Lost in Texas,Lost in Texas,lost in texas,valid,US,United States
+"Portland, OR","Portland, OR","portland, or",valid,US,United States
+"Seattle, USA","Seattle, USA","seattle, usa",valid,US,United States
+北京朝阳,北京朝阳,北京朝阳,ambiguous,,
+"Santa Barbara, CA, United States","Santa Barbara, CA, United States","santa barbara, ca, united states",valid,US,United States
+"Goleta, Santa Barbara, CA","Goleta, Santa Barbara, CA","goleta, santa barbara, ca",valid,US,United States
+Leuven,Leuven,leuven,ambiguous,,
+"Washington, DC.","Washington, DC.","washington, dc",valid,US,United States
+NY Greater Area,NY Greater Area,ny greater area,valid,US,United States
+"Philadelphia, PA, USA","Philadelphia, PA, USA","philadelphia, pa, usa",valid,US,United States
+"Woburn, MA","Woburn, MA","woburn, ma",valid,US,United States
+Beijng,Beijng,beijng,ambiguous,,
+Bosotn,Bosotn,bosotn,ambiguous,,
+"Newark, DE","Newark, DE","newark, de",valid,US,United States
+Hangzhou，China,Hangzhou，China,"hangzhou,china",valid,CN,China
+"Berkeley, California","Berkeley, California","berkeley, california",valid,US,United States
+Jalandhar,Jalandhar,jalandhar,ambiguous,,
+Changchun Jilin China,Changchun Jilin China,changchun jilin china,valid,CN,China
+Rio de Janeiro,Rio de Janeiro,rio de janeiro,valid,US,United States
+"Utah, United States","Utah, United States","utah, united states",valid,US,United States
+"Kelowna, BC","Kelowna, BC","kelowna, bc",valid,CA,Canada
+Alwar Rajasthan,Alwar Rajasthan,alwar rajasthan,ambiguous,,
+"Tampere, Finland","Tampere, Finland","tampere, finland",valid,FI,Finland
+"Oslo, Norway","Oslo, Norway","oslo, norway",valid,NO,Norway
+Indonesia,Indonesia,indonesia,valid,ID,Indonesia
+"Madison, WI","Madison, WI","madison, wi",valid,US,United States
+tunis,tunis,tunis,ambiguous,,
+"viña del mar, Chile.","viña del mar, Chile.","viña del mar, chile",valid,CL,Chile
+Bangalore ,Bangalore ,bangalore,ambiguous,,
+Orléans,Orléans,orléans,ambiguous,,
+"Bangalore, India","Bangalore, India","bangalore, india",valid,IN,India
+"Winter Springs, FL","Winter Springs, FL","winter springs, fl",valid,US,United States
+"Redmond, WA","Redmond, WA","redmond, wa",valid,US,United States
+"Valencia, Spain","Valencia, Spain","valencia, spain",valid,ES,Spain
+"Queens, NY","Queens, NY","queens, ny",valid,US,United States
+Bengaluru,Bengaluru,bengaluru,ambiguous,,
+ Brazil and Portugal, Brazil and Portugal,brazil and portugal,valid,BR,Brazil
+zhejiang-hangzhou-china,zhejiang-hangzhou-china,zhejiang-hangzhou-china,ambiguous,,
+Sinagpore,Sinagpore,sinagpore,ambiguous,,
+"Campinas, Sp","Campinas, Sp","campinas, sp",ambiguous,,
+"Yerevan, Armenia","Yerevan, Armenia","yerevan, armenia",valid,AM,Armenia
+"München, Germany","München, Germany","münchen, germany",valid,DE,Germany
+"Seattle, United States","Seattle, United States","seattle, united states",valid,US,United States
+NY,NY,ny,valid,US,United States
+"Corvallis, OR","Corvallis, OR","corvallis, or",valid,US,United States
+Zurich,Zurich,zurich,ambiguous,,
+Ohio,Ohio,ohio,valid,US,United States
+Abu Dhabi,Abu Dhabi,abu dhabi,ambiguous,,
+Thessaloniki,Thessaloniki,thessaloniki,ambiguous,,
+Milano,Milano,milano,ambiguous,,
+Darmstadt/Germany,Darmstadt/Germany,"darmstadt,germany",valid,DE,Germany
+"Apex, NC","Apex, NC","apex, nc",valid,US,United States
+"Iran, Guilan, Rasht","Iran, Guilan, Rasht","iran, guilan, rasht",valid,IR,"Iran, Islamic Republic of"
+"ChengDu,SiChuan,China","ChengDu,SiChuan,China","chengdu,sichuan,china",valid,CN,China
+"Cupertino, CA, USA","Cupertino, CA, USA","cupertino, ca, usa",valid,US,United States
+France / Bordeaux,France / Bordeaux,"france , bordeaux",valid,FR,France
+"Republic of Korea, Seoul","Republic of Korea, Seoul","republic of korea, seoul",valid,KR,"Korea, Republic of"
+Nepal,Nepal,nepal,valid,NP,Nepal
+"Israel, Tel-Aviv","Israel, Tel-Aviv","israel, tel-aviv",valid,IL,Israel
+"Aberdeen, United Kingdom","Aberdeen, United Kingdom","aberdeen, united kingdom",valid,GB,United Kingdom
+Dresden,Dresden,dresden,ambiguous,,
+"Firenze, ITALY","Firenze, ITALY","firenze, italy",valid,IT,Italy
+"Dhaka,Bangladesh ","Dhaka,Bangladesh ","dhaka,bangladesh",valid,BD,Bangladesh
+Everywhere,Everywhere,everywhere,non-geographic,,
+北京,北京,北京,ambiguous,,
+"Vienna, Austria","Vienna, Austria","vienna, austria",valid,AT,Austria
+"Raleigh,NC,USA","Raleigh,NC,USA","raleigh,nc,usa",valid,US,United States
+"Montevideo, Uruguay","Montevideo, Uruguay","montevideo, uruguay",valid,UY,Uruguay
+Pereira - Colombia,Pereira - Colombia,pereira - colombia,valid,CO,Colombia
+"Monterrey, Mexico","Monterrey, Mexico","monterrey, mexico",valid,MX,Mexico
+"Sendai, Japan","Sendai, Japan","sendai, japan",valid,JP,Japan
+Palestine,Palestine,palestine,ambiguous,,
+"Melbourne, Australia","Melbourne, Australia","melbourne, australia",valid,AU,Australia
+"Saarbrücken, Germany","Saarbrücken, Germany","saarbrücken, germany",valid,DE,Germany
+"Hanoi, Vietnam","Hanoi, Vietnam","hanoi, vietnam",ambiguous,,
+"Milano, Italy","Milano, Italy","milano, italy",valid,IT,Italy
+Zaragoza,Zaragoza,zaragoza,ambiguous,,
+Jamkhandi,Jamkhandi,jamkhandi,ambiguous,,
+"London, United Kingdom","London, United Kingdom","london, united kingdom",valid,GB,United Kingdom
+Pohang,Pohang,pohang,ambiguous,,
+Spain (Barcelona),Spain (Barcelona),spain (barcelona),valid,ES,Spain
+Utah,Utah,utah,valid,US,United States
+"Bengaluru, India","Bengaluru, India","bengaluru, india",valid,IN,India
+Zona Cristo,Zona Cristo,zona cristo,ambiguous,,
+Bombay,Bombay,bombay,ambiguous,,
+Houston,Houston,houston,ambiguous,,
+"Ukraine, Odessa","Ukraine, Odessa","ukraine, odessa",valid,UA,Ukraine
+"Groningen, The Netherlands","Groningen, The Netherlands","groningen, the netherlands",valid,NL,Netherlands
+"Tianjin, China","Tianjin, China","tianjin, china",valid,CN,China
+"Nagpur, Maharashtra","Nagpur, Maharashtra","nagpur, maharashtra",ambiguous,,
+"Sydney, Australia","Sydney, Australia","sydney, australia",valid,AU,Australia
+Gandhinagar,Gandhinagar,gandhinagar,ambiguous,,
+"Curitiba, Brazil","Curitiba, Brazil","curitiba, brazil",valid,BR,Brazil
+"somewhere north of Watford, England","somewhere north of Watford, England","somewhere north of watford, england",ambiguous,,
+Austin,Austin,austin,ambiguous,,
+Istanbul/Turkey,Istanbul/Turkey,"istanbul,turkey",ambiguous,,
+Dublin,Dublin,dublin,ambiguous,,
+Auckland,Auckland,auckland,ambiguous,,
+India,India,india,valid,IN,India
+Eindhoven - The Netherlands,Eindhoven - The Netherlands,eindhoven - the netherlands,valid,NL,Netherlands
+Beijing of China,Beijing of China,beijing of china,valid,CN,China
+Warszawa,Warszawa,warszawa,ambiguous,,
+Saarbruecken,Saarbruecken,saarbruecken,ambiguous,,
+"Tacoma, WA, USA","Tacoma, WA, USA","tacoma, wa, usa",valid,US,United States
+shithole,shithole,shithole,ambiguous,,
+"Taipei, Taiwan","Taipei, Taiwan","taipei, taiwan",valid,TW,"Taiwan, Province of China"
+Soochow University,Soochow University,soochow university,ambiguous,,
+"Madison, Wiconsin","Madison, Wiconsin","madison, wiconsin",ambiguous,,
+Lausanne / Fribourg,Lausanne / Fribourg,"lausanne , fribourg",ambiguous,,
+Brussels,Brussels,brussels,ambiguous,,
+K2-18b,K2-18b,k2-18b,ambiguous,,
+"Irvine, California","Irvine, California","irvine, california",valid,US,United States
+Shen Zhen,Shen Zhen,shen zhen,ambiguous,,
+Belgrade,Belgrade,belgrade,ambiguous,,
+"Bangalore,India","Bangalore,India","bangalore,india",valid,IN,India
+"Columbia, South Carolina","Columbia, South Carolina","columbia, south carolina",ambiguous,,
+"Ankara, Turkiye","Ankara, Turkiye","ankara, turkiye",ambiguous,,
+"Taoyuan, Taiwan","Taoyuan, Taiwan","taoyuan, taiwan",valid,TW,"Taiwan, Province of China"
+GuanZhou,GuanZhou,guanzhou,ambiguous,,
+"Richland, WA, United States","Richland, WA, United States","richland, wa, united states",valid,US,United States
+Porto,Porto,porto,ambiguous,,
+"New York, NY","New York, NY","new york, ny",valid,US,United States
+Metaverse?,Metaverse?,metaverse?,ambiguous,,
+"Santiago, Chile","Santiago, Chile","santiago, chile",valid,CL,Chile
+Embakasi,Embakasi,embakasi,ambiguous,,
+Hong Kong SAR,Hong Kong SAR,hong kong sar,ambiguous,,
+"Bangalore , India","Bangalore , India","bangalore , india",valid,IN,India
+cape town,cape town,cape town,ambiguous,,
+New Delhi,New Delhi,new delhi,ambiguous,,
+"Lahore, Pakistan","Lahore, Pakistan","lahore, pakistan",valid,PK,Pakistan
+"Varanasi, India","Varanasi, India","varanasi, india",valid,IN,India
+Santa Clara,Santa Clara,santa clara,ambiguous,,
+Potsdam,Potsdam,potsdam,ambiguous,,
+ Egypt , Egypt ,egypt,valid,EG,Egypt
+Araxá-MG Brasil,Araxá-MG Brasil,araxá-mg brasil,ambiguous,,
+"Groningen, Netherlands","Groningen, Netherlands","groningen, netherlands",valid,NL,Netherlands
+"Belo Horizonte, MG, Brazil","Belo Horizonte, MG, Brazil","belo horizonte, mg, brazil",valid,BR,Brazil
+South Korea,South Korea,south korea,valid,KR,"Korea, Republic of"
+Portugal,Portugal,portugal,valid,PT,Portugal
+Stockholm || Daejeon || Asmara,Stockholm || Daejeon || Asmara,"stockholm , daejeon , asmara",ambiguous,,
+Quebec/France,Quebec/France,"quebec,france",valid,FR,France
+"BeiJing,China","BeiJing,China","beijing,china",valid,CN,China
+" Seattle, WA"," Seattle, WA","seattle, wa",valid,US,United States
+"Samsung R&D Institute, Bangalore","Samsung R&D Institute, Bangalore","samsung r&d institute, bangalore",ambiguous,,
+Sunnyvale,Sunnyvale,sunnyvale,ambiguous,,
+Latent Space,Latent Space,latent space,ambiguous,,
+London,London,london,ambiguous,,
+Oldenburg,Oldenburg,oldenburg,ambiguous,,
+ShenZhen,ShenZhen,shenzhen,ambiguous,,
+"Hang Zhou, Zhejiang Province, VR China","Hang Zhou, Zhejiang Province, VR China","hang zhou, zhejiang province, vr china",valid,CN,China
+"Ann Arbor, MI, USA","Ann Arbor, MI, USA","ann arbor, mi, usa",valid,US,United States
+"Boston, Massachusetts","Boston, Massachusetts","boston, massachusetts",valid,US,United States
+"Eschen, Liechtenstein","Eschen, Liechtenstein","eschen, liechtenstein",valid,LI,Liechtenstein
+Cardiff,Cardiff,cardiff,ambiguous,,
+"Pune, Maharashtra.","Pune, Maharashtra.","pune, maharashtra",ambiguous,,
+"Salt Lake City, UT","Salt Lake City, UT","salt lake city, ut",valid,US,United States
+"Porto Alegre, Brazil","Porto Alegre, Brazil","porto alegre, brazil",valid,BR,Brazil
+"Tempe, AZ","Tempe, AZ","tempe, az",valid,US,United States
+New Haven,New Haven,new haven,ambiguous,,
+"Roma, Italia","Roma, Italia","roma, italia",ambiguous,,
+Bhuj — Ahmedabad,Bhuj — Ahmedabad,bhuj — ahmedabad,ambiguous,,
+"Seoul, Republic of Korea","Seoul, Republic of Korea","seoul, republic of korea",valid,KR,"Korea, Republic of"
+Milky Way,Milky Way,milky way,non-geographic,,
+Thane,Thane,thane,ambiguous,,
+"Espoo, Finland","Espoo, Finland","espoo, finland",valid,FI,Finland
+Münster,Münster,münster,ambiguous,,
+Berkeley CA,Berkeley CA,berkeley ca,valid,US,United States
+"Vancouver, BC","Vancouver, BC","vancouver, bc",valid,CA,Canada
+EST/GMT-5,EST/GMT-5,"est,gmt-5",ambiguous,,
+Global,Global,global,ambiguous,,
+"Abu Dhabi, Masdar City","Abu Dhabi, Masdar City","abu dhabi, masdar city",ambiguous,,
+China Mainland,China Mainland,china mainland,valid,CN,China
+Netherlands,Netherlands,netherlands,valid,NL,Netherlands
+"San Diego, CA","San Diego, CA","san diego, ca",valid,US,United States
+"Edinburgh, UK","Edinburgh, UK","edinburgh, uk",valid,GB,United Kingdom
+"Zagreb, Croatia","Zagreb, Croatia","zagreb, croatia",valid,HR,Croatia
+New Jersey,New Jersey,new jersey,valid,JE,Jersey
+IIT Delhi,IIT Delhi,iit delhi,ambiguous,,
+Charlotte,Charlotte,charlotte,ambiguous,,
+"Beijing,China,BUAACS","Beijing,China,BUAACS","beijing,china,buaacs",valid,CN,China
+shanghai,shanghai,shanghai,ambiguous,,
+Zagreb,Zagreb,zagreb,ambiguous,,
+"Newark, DE, USA","Newark, DE, USA","newark, de, usa",valid,US,United States
+"Fremont, CA","Fremont, CA","fremont, ca",valid,US,United States
+Argentina,Argentina,argentina,valid,AR,Argentina
+"Palo Alto, California","Palo Alto, California","palo alto, california",valid,US,United States
+Jorhat,Jorhat,jorhat,ambiguous,,
+"Chicago, USA","Chicago, USA","chicago, usa",valid,US,United States
+Palo Alto,Palo Alto,palo alto,ambiguous,,
+İstanbul,İstanbul,i̇stanbul,ambiguous,,
+"Cupertino, CA","Cupertino, CA","cupertino, ca",valid,US,United States
+"Leuven, Belgium","Leuven, Belgium","leuven, belgium",valid,BE,Belgium
+"New York City, NY","New York City, NY","new york city, ny",valid,US,United States
+"Copenhagen, Denmark","Copenhagen, Denmark","copenhagen, denmark",valid,DK,Denmark
+Pangyo-dong,Pangyo-dong,pangyo-dong,ambiguous,,
+"New Haven, CT (USA)","New Haven, CT (USA)","new haven, ct (usa)",valid,US,United States
+Great Toronto Area,Great Toronto Area,great toronto area,ambiguous,,
+Bangladesh ,Bangladesh ,bangladesh,valid,BD,Bangladesh
+Malmö,Malmö,malmö,ambiguous,,
+"Marburg, Germany","Marburg, Germany","marburg, germany",valid,DE,Germany
+"Philadelphia, USA","Philadelphia, USA","philadelphia, usa",valid,US,United States
+"Columbus, Ohio.","Columbus, Ohio.","columbus, ohio",valid,US,United States
+"Backnang, Germany","Backnang, Germany","backnang, germany",valid,DE,Germany
+Amsterdam,Amsterdam,amsterdam,ambiguous,,
+Copenhagen - Denmark,Copenhagen - Denmark,copenhagen - denmark,valid,DK,Denmark
+"Bern, Switzerland","Bern, Switzerland","bern, switzerland",valid,CH,Switzerland
+"Kitchener, Ontario","Kitchener, Ontario","kitchener, ontario",valid,CA,Canada
+Suwon city,Suwon city,suwon city,ambiguous,,
+Sweden,Sweden,sweden,valid,SE,Sweden
+Bharat,Bharat,bharat,ambiguous,,
+"Cambridge, United Kingdom","Cambridge, United Kingdom","cambridge, united kingdom",valid,GB,United Kingdom
+"Greater Noida,Uttar Pradesh,India","Greater Noida,Uttar Pradesh,India","greater noida,uttar pradesh,india",valid,IN,India
+Armenia,Armenia,armenia,valid,AM,Armenia
+Xiamen,Xiamen,xiamen,ambiguous,,
+San José,San José,san josé,ambiguous,,
+CSU,CSU,csu,ambiguous,,
+"Copenhagen, DK","Copenhagen, DK","copenhagen, dk",ambiguous,,
+United Arab Emirates,United Arab Emirates,united arab emirates,valid,AE,United Arab Emirates
+email me @ evecoronel.com,email me @ evecoronel.com,email me @ evecoronel.com,valid,US,United States
+"Milan, Italy","Milan, Italy","milan, italy",valid,IT,Italy
+"Lviv, Ukraine","Lviv, Ukraine","lviv, ukraine",valid,UA,Ukraine
+HongKong,HongKong,hongkong,ambiguous,,
+Fukushima,Fukushima,fukushima,ambiguous,,
+Greece,Greece,greece,valid,GR,Greece
+"Bratislava, Slovakia","Bratislava, Slovakia","bratislava, slovakia",valid,SK,Slovakia
+Los Angeles and Culver City,Los Angeles and Culver City,los angeles and culver city,ambiguous,,
+"Wrocław, Poland","Wrocław, Poland","wrocław, poland",valid,PL,Poland
+"Seattle, Washington","Seattle, Washington","seattle, washington",valid,US,United States
+Marseille,Marseille,marseille,ambiguous,,
+China Hangzhou,China Hangzhou,china hangzhou,valid,CN,China
+"Yamato, Kanagawa, Japan","Yamato, Kanagawa, Japan","yamato, kanagawa, japan",valid,JP,Japan
+"Johnson City, Tennessee, USA","Johnson City, Tennessee, USA","johnson city, tennessee, usa",valid,US,United States
+Leipzig,Leipzig,leipzig,ambiguous,,
+"Cupertino, Ca","Cupertino, Ca","cupertino, ca",valid,US,United States
+"Montreal, QC, Canada","Montreal, QC, Canada","montreal, qc, canada",valid,CA,Canada
+"San Juan, Puerto Rico","San Juan, Puerto Rico","san juan, puerto rico",valid,PR,Puerto Rico
+"Toronto, Ontaria CA","Toronto, Ontaria CA","toronto, ontaria ca",valid,US,United States
+"CT, USA","CT, USA","ct, usa",valid,US,United States
+"Jamshedpur , Jharkhand","Jamshedpur , Jharkhand","jamshedpur , jharkhand",ambiguous,,
+São Paulo,São Paulo,são paulo,ambiguous,,
+Pisa,Pisa,pisa,ambiguous,,
+"Chicago, US","Chicago, US","chicago, us",ambiguous,,
+"St. John's, NL","St. John's, NL","st. johns, nl",valid,CA,Canada
+Atlanta ,Atlanta ,atlanta,ambiguous,,
+"Nice, France","Nice, France","nice, france",valid,FR,France
+"San Francisco, USA","San Francisco, USA","san francisco, usa",valid,US,United States
+Sabadell,Sabadell,sabadell,ambiguous,,
+"Urbana,IL","Urbana,IL","urbana,il",valid,US,United States
+Taiwan USA,Taiwan USA,taiwan usa,valid,TW,"Taiwan, Province of China"
+"Agrabad,Chattogram","Agrabad,Chattogram","agrabad,chattogram",ambiguous,,
+"Porto Alegre, Rio Grande do Sul, Brasil","Porto Alegre, Rio Grande do Sul, Brasil","porto alegre, rio grande do sul, brasil",ambiguous,,
+Singapore,Singapore,singapore,valid,SG,Singapore
+"Naju, South Korea","Naju, South Korea","naju, south korea",valid,KR,"Korea, Republic of"
+china suzhou,china suzhou,china suzhou,valid,CN,China
+"MTV, CA","MTV, CA","mtv, ca",valid,US,United States
+Toronto,Toronto,toronto,ambiguous,,
+Canada ,Canada ,canada,valid,CA,Canada
+6th of October city,6th of October city,6th of october city,ambiguous,,
+"Flagstaff, AZ","Flagstaff, AZ","flagstaff, az",valid,US,United States
+Denver,Denver,denver,ambiguous,,
+Mohali,Mohali,mohali,ambiguous,,
+Saint-Petersburg,Saint-Petersburg,saint-petersburg,ambiguous,,
+Россия,Россия,россия,ambiguous,,
+"Brescia, Italy","Brescia, Italy","brescia, italy",valid,IT,Italy
+"Bengalore, IN","Bengalore, IN","bengalore, in",valid,US,United States
+"Ottawa,Canada","Ottawa,Canada","ottawa,canada",valid,CA,Canada
+Karachi,Karachi,karachi,ambiguous,,
+"Boston, MA, USA","Boston, MA, USA","boston, ma, usa",valid,US,United States
+"Bonn, Germany","Bonn, Germany","bonn, germany",valid,DE,Germany
+🗼Tokyo,🗼Tokyo,tokyo,ambiguous,,
+Aarhus,Aarhus,aarhus,ambiguous,,
+Miami,Miami,miami,ambiguous,,
+"Lehi, UT, USA","Lehi, UT, USA","lehi, ut, usa",valid,US,United States
+Budapest,Budapest,budapest,ambiguous,,
+"New Haven, USA","New Haven, USA","new haven, usa",valid,US,United States
+"Banglore, India","Banglore, India","banglore, india",valid,IN,India
+"Atlanta, GA, USA","Atlanta, GA, USA","atlanta, ga, usa",valid,US,United States
+"College Park, MD","College Park, MD","college park, md",valid,US,United States
+"punjab, pakistan","punjab, pakistan","punjab, pakistan",valid,PK,Pakistan
+Zürich Switzerland,Zürich Switzerland,zürich switzerland,valid,CH,Switzerland
+Stanford,Stanford,stanford,ambiguous,,
+四川-成都,四川-成都,四川-成都,ambiguous,,
+Guildford,Guildford,guildford,ambiguous,,
+"Chatsworth,CA","Chatsworth,CA","chatsworth,ca",valid,US,United States
+Manila,Manila,manila,ambiguous,,
+"Athens, GR","Athens, GR","athens, gr",ambiguous,,
+Quebec,Quebec,quebec,valid,CA,Canada
+Berkeley,Berkeley,berkeley,ambiguous,,
+"Beijing, China","Beijing, China","beijing, china",valid,CN,China
+The Great American Desert,The Great American Desert,the great american desert,ambiguous,,
+SHANG HAI,SHANG HAI,shang hai,ambiguous,,
+Brazil,Brazil,brazil,valid,BR,Brazil
+"Boulder, CO","Boulder, CO","boulder, co",valid,US,United States
+"punalur,kerala","punalur,kerala","punalur,kerala",ambiguous,,
+Málaga,Málaga,málaga,ambiguous,,
+"Indore, India","Indore, India","indore, india",valid,IN,India
+"Florida, USA","Florida, USA","florida, usa",valid,US,United States
+"Gauteng, South Africa","Gauteng, South Africa","gauteng, south africa",valid,ZA,South Africa
+"Mountain View, CA","Mountain View, CA","mountain view, ca",valid,US,United States
+Seoul,Seoul,seoul,ambiguous,,
+"Neu-Ulm, Germany","Neu-Ulm, Germany","neu-ulm, germany",valid,DE,Germany
+Outer Space,Outer Space,outer space,ambiguous,,
+BCN,BCN,bcn,ambiguous,,
+New York City,New York City,new york city,ambiguous,,
+Greater Boston,Greater Boston,greater boston,ambiguous,,
+HITSZ,HITSZ,hitsz,ambiguous,,
+"Castle Hill, Sydney","Castle Hill, Sydney","castle hill, sydney",ambiguous,,
+Paris - France,Paris - France,paris - france,valid,FR,France
+Liulangzhe,Liulangzhe,liulangzhe,ambiguous,,
+Lille/Cologne,Lille/Cologne,"lille,cologne",ambiguous,,
+shenyang,shenyang,shenyang,ambiguous,,
+"Atlanta, Georgia","Atlanta, Georgia","atlanta, georgia",valid,GE,Georgia
+Lost in the French Alps,Lost in the French Alps,lost in the french alps,valid,US,United States
+"Sainte-Adèle, Québec","Sainte-Adèle, Québec","sainte-adèle, québec",ambiguous,,
+"bangalore,india","bangalore,india","bangalore,india",valid,IN,India
+"halifax, Canada","halifax, Canada","halifax, canada",valid,CA,Canada
+"Uppsala, Sweden","Uppsala, Sweden","uppsala, sweden",valid,SE,Sweden
+"Toulouse, France","Toulouse, France","toulouse, france",valid,FR,France
+Ireland,Ireland,ireland,valid,IE,Ireland
+"Albuquerque, NM","Albuquerque, NM","albuquerque, nm",valid,US,United States
+São Paulo - SP,São Paulo - SP,são paulo - sp,ambiguous,,
+"Budapest, Hungary","Budapest, Hungary","budapest, hungary",valid,HU,Hungary
+"Renningen, Germany","Renningen, Germany","renningen, germany",valid,DE,Germany
+"Taipei,Taiwan","Taipei,Taiwan","taipei,taiwan",valid,TW,"Taiwan, Province of China"
+"Guatire, Venezuela","Guatire, Venezuela","guatire, venezuela",ambiguous,,
+SF,SF,sf,ambiguous,,
+The Matrix,The Matrix,the matrix,ambiguous,,
+india,india,india,valid,IN,India
+Boston,Boston,boston,ambiguous,,
+Visakhapatnam,Visakhapatnam,visakhapatnam,ambiguous,,
+"Atlanta, GA","Atlanta, GA","atlanta, ga",valid,US,United States
+Bruxelles,Bruxelles,bruxelles,ambiguous,,
+"Clinton, NJ","Clinton, NJ","clinton, nj",valid,US,United States
+CHINA,CHINA,china,valid,CN,China
+Clermont-Ferrand,Clermont-Ferrand,clermont-ferrand,ambiguous,,
+Chennai,Chennai,chennai,ambiguous,,
+Tübingen,Tübingen,tübingen,ambiguous,,
+"Bloomington, USA","Bloomington, USA","bloomington, usa",valid,US,United States
+Moon,Moon,moon,ambiguous,,
+Cologne,Cologne,cologne,ambiguous,,
+"Tehran, Iran","Tehran, Iran","tehran, iran",valid,IR,"Iran, Islamic Republic of"
+"Manchester, UK","Manchester, UK","manchester, uk",valid,GB,United Kingdom
+"Pleasanton, CA","Pleasanton, CA","pleasanton, ca",valid,US,United States
+"IIT Kanpur, Uttar Pradesh, India","IIT Kanpur, Uttar Pradesh, India","iit kanpur, uttar pradesh, india",valid,IN,India
+"Baltimore, Maryland, USA","Baltimore, Maryland, USA","baltimore, maryland, usa",valid,US,United States
+Mars,Mars,mars,non-geographic,,
+"Hartford, CT","Hartford, CT","hartford, ct",valid,US,United States
+"Bangkok, Thailand","Bangkok, Thailand","bangkok, thailand",valid,TH,Thailand
+"Islamabad, Pakistan","Islamabad, Pakistan","islamabad, pakistan",valid,PK,Pakistan
+Deisenhausen,Deisenhausen,deisenhausen,ambiguous,,
+Hong Kong,Hong Kong,hong kong,valid,HK,Hong Kong
+"Washington, US","Washington, US","washington, us",valid,US,United States
+"Sandefjord, Norway","Sandefjord, Norway","sandefjord, norway",valid,NO,Norway
+Kampala,Kampala,kampala,ambiguous,,
+"Redwood City, CA","Redwood City, CA","redwood city, ca",valid,US,United States
+"China,Beijing","China,Beijing","china,beijing",valid,CN,China
+"Paris, France.","Paris, France.","paris, france",valid,FR,France
+San Francisco,San Francisco,san francisco,ambiguous,,
+Hanoi,Hanoi,hanoi,ambiguous,,
+"Markham, Ontario, Canada","Markham, Ontario, Canada","markham, ontario, canada",valid,CA,Canada
+Dakar - Senegal,Dakar - Senegal,dakar - senegal,valid,SN,Senegal
+"Sanfrancisco, USA","Sanfrancisco, USA","sanfrancisco, usa",valid,US,United States
+"Columbus, OH","Columbus, OH","columbus, oh",valid,US,United States
+"Nagoya,Japan","Nagoya,Japan","nagoya,japan",valid,JP,Japan
+苏州,苏州,苏州,ambiguous,,
+"Allston, MA","Allston, MA","allston, ma",valid,US,United States
+Paris,Paris,paris,ambiguous,,
+The Great PRC,The Great PRC,the great prc,ambiguous,,
+California,California,california,valid,US,United States
+chennai,chennai,chennai,ambiguous,,
+"Chicago, IL, USA","Chicago, IL, USA","chicago, il, usa",valid,US,United States
+Florianópolis - SC,Florianópolis - SC,florianópolis - sc,valid,US,United States
+"Evanston, Illinois","Evanston, Illinois","evanston, illinois",valid,US,United States
+"Cape Town, South Africa","Cape Town, South Africa","cape town, south africa",valid,ZA,South Africa
+"Broomfield, Colorado","Broomfield, Colorado","broomfield, colorado",valid,US,United States
+,nan,nan,missing,,
+"Los Altos, CA","Los Altos, CA","los altos, ca",valid,US,United States
+"Kigali, Rwanda","Kigali, Rwanda","kigali, rwanda",valid,RW,Rwanda
+Paris-France,Paris-France,paris-france,ambiguous,,
+"Alberta, Canada","Alberta, Canada","alberta, canada",valid,CA,Canada
+"Marina del Rey, CA","Marina del Rey, CA","marina del rey, ca",valid,US,United States
+Colombo,Colombo,colombo,ambiguous,,
+"Somerville, MA","Somerville, MA","somerville, ma",valid,US,United States
+Yorktown Heights,Yorktown Heights,yorktown heights,ambiguous,,
+"Tel-Aviv, Israel","Tel-Aviv, Israel","tel-aviv, israel",valid,IL,Israel
+Минск,Минск,минск,ambiguous,,
+"Cambridge, MA, USA","Cambridge, MA, USA","cambridge, ma, usa",valid,US,United States
+Zurich Switzerland,Zurich Switzerland,zurich switzerland,valid,CH,Switzerland
+"Cambridge, MA, 02139","Cambridge, MA, 02139","cambridge, ma, 02139",valid,US,United States
+tokyo shibuya,tokyo shibuya,tokyo shibuya,ambiguous,,
+India ,India ,india,valid,IN,India
+Paraguay,Paraguay,paraguay,valid,PY,Paraguay
+Iran,Iran,iran,valid,IR,"Iran, Islamic Republic of"
+"Stuttgart, Germany","Stuttgart, Germany","stuttgart, germany",valid,DE,Germany
+Walldorf,Walldorf,walldorf,ambiguous,,
+"Chennai, India","Chennai, India","chennai, india",valid,IN,India
+Dubai,Dubai,dubai,ambiguous,,
+"Westford, MA","Westford, MA","westford, ma",valid,US,United States
+"Hamilton, New Zealand","Hamilton, New Zealand","hamilton, new zealand",valid,NZ,New Zealand
+"India, Tamil Nadu","India, Tamil Nadu","india, tamil nadu",valid,IN,India
+"Cambridge, MA","Cambridge, MA","cambridge, ma",valid,US,United States
+"Gdańsk, Poland","Gdańsk, Poland","gdańsk, poland",valid,PL,Poland
+"Charlotte, NC","Charlotte, NC","charlotte, nc",valid,US,United States
+BeiJing,BeiJing,beijing,ambiguous,,
+"Online;  Prague, Czechia","Online;  Prague, Czechia","online, prague, czechia",non-geographic,,
+"Ahmedabad, Gujarat, India","Ahmedabad, Gujarat, India","ahmedabad, gujarat, india",valid,IN,India
+"China, Guangdong, Shenzhen","China, Guangdong, Shenzhen","china, guangdong, shenzhen",valid,CN,China
+"Campinas, Brazil","Campinas, Brazil","campinas, brazil",valid,BR,Brazil
+"Tijuana, Baja California, Mexico","Tijuana, Baja California, Mexico","tijuana, baja california, mexico",valid,MX,Mexico
+"Bengaluru, India ","Bengaluru, India ","bengaluru, india",valid,IN,India
+"Spokane, Washington","Spokane, Washington","spokane, washington",valid,US,United States
+"Kerala,India","Kerala,India","kerala,india",valid,IN,India
+127.0.0.1,127.0.0.1,127.0.0.1,ambiguous,,
+Simulation,Simulation,simulation,ambiguous,,
+Hortolândia,Hortolândia,hortolândia,ambiguous,,
+"Chapel Hill, NC, USA","Chapel Hill, NC, USA","chapel hill, nc, usa",valid,US,United States
+Seattle,Seattle,seattle,ambiguous,,
+"Zurich, Switzerland","Zurich, Switzerland","zurich, switzerland",valid,CH,Switzerland
+"La Jolla, California","La Jolla, California","la jolla, california",valid,US,United States
+Cambridge. MA,Cambridge. MA,cambridge. ma,valid,US,United States
+Rourkela Orissa,Rourkela Orissa,rourkela orissa,ambiguous,,
+" Beijing, China"," Beijing, China","beijing, china",valid,CN,China
+ZhengZhou University,ZhengZhou University,zhengzhou university,ambiguous,,
+"Nanjing, China","Nanjing, China","nanjing, china",valid,CN,China
+"Dayton, OH","Dayton, OH","dayton, oh",valid,US,United States
+"Burlington, VT","Burlington, VT","burlington, vt",valid,US,United States
+CASABLANCA,CASABLANCA,casablanca,ambiguous,,
+HANG ZHOU,HANG ZHOU,hang zhou,ambiguous,,
+Karlsruhe,Karlsruhe,karlsruhe,ambiguous,,
+Hong Kong ,Hong Kong ,hong kong,valid,HK,Hong Kong
+Sydney,Sydney,sydney,ambiguous,,
+Toulouse,Toulouse,toulouse,ambiguous,,
+Tel Aviv University,Tel Aviv University,tel aviv university,ambiguous,,
+Hefei,Hefei,hefei,ambiguous,,
+São José dos Campos - SP - Brazil,São José dos Campos - SP - Brazil,são josé dos campos - sp - brazil,valid,BR,Brazil
+Baltimore,Baltimore,baltimore,ambiguous,,
+Zagazig - Egypt   || Obour - Egypt ,Zagazig - Egypt   || Obour - Egypt ,"zagazig - egypt , obour - egypt",valid,EG,Egypt
+"San Francisco Bay Area, CA, USA","San Francisco Bay Area, CA, USA","san francisco bay area, ca, usa",valid,US,United States
+Riyadh,Riyadh,riyadh,ambiguous,,
+"Oakland, CA","Oakland, CA","oakland, ca",valid,US,United States
+Portland,Portland,portland,ambiguous,,
+Kathmandu Nepal,Kathmandu Nepal,kathmandu nepal,valid,NP,Nepal
+"Egypt, Cairo","Egypt, Cairo","egypt, cairo",valid,EG,Egypt
+"Istanbul , Turkey","Istanbul , Turkey","istanbul , turkey",ambiguous,,
+"Kolkata,WestBengal","Kolkata,WestBengal","kolkata,westbengal",ambiguous,,
+"Bourron-Marlotte, France","Bourron-Marlotte, France","bourron-marlotte, france",valid,FR,France
+Pasadena,Pasadena,pasadena,ambiguous,,
+"Pisa, Italy","Pisa, Italy","pisa, italy",valid,IT,Italy
+"Tirol, Austria","Tirol, Austria","tirol, austria",valid,AT,Austria
+Knowhere,Knowhere,knowhere,ambiguous,,
+"Lugano, Switzerland","Lugano, Switzerland","lugano, switzerland",valid,CH,Switzerland
+"Leeds, UK","Leeds, UK","leeds, uk",valid,GB,United Kingdom
+jordan,jordan,jordan,valid,JO,Jordan
+Europe,Europe,europe,ambiguous,,
+Doudleby nad Orlici,Doudleby nad Orlici,doudleby nad orlici,ambiguous,,
+"Notre Dame, IN","Notre Dame, IN","notre dame, in",valid,US,United States
+"Arlington, MA","Arlington, MA","arlington, ma",valid,US,United States
+广州,广州,广州,ambiguous,,
+"Nanjing, Jiangsu Province, China","Nanjing, Jiangsu Province, China","nanjing, jiangsu province, china",valid,CN,China
+"Riverton, Utah","Riverton, Utah","riverton, utah",valid,US,United States
+France,France,france,valid,FR,France
+943 voie Antiope 13600 - La Ciotat,943 voie Antiope 13600 - La Ciotat,943 voie antiope 13600 - la ciotat,valid,US,United States
+"Italy, Friuli","Italy, Friuli","italy, friuli",valid,IT,Italy
+Zuerich,Zuerich,zuerich,ambiguous,,
+Mannheim,Mannheim,mannheim,ambiguous,,
+hangzhou,hangzhou,hangzhou,ambiguous,,
+"New Haven, CT","New Haven, CT","new haven, ct",valid,US,United States
+"Russia, Omsk","Russia, Omsk","russia, omsk",valid,RU,Russian Federation
+"Faisalabad, Pakistan","Faisalabad, Pakistan","faisalabad, pakistan",valid,PK,Pakistan
+"Kochi, india","Kochi, india","kochi, india",valid,IN,India
+"Suzhou, China","Suzhou, China","suzhou, china",valid,CN,China
+"San Francisco, CA","San Francisco, CA","san francisco, ca",valid,US,United States
+Planet earth,Planet earth,planet earth,non-geographic,,
+"Waterloo, Ontario, Canada","Waterloo, Ontario, Canada","waterloo, ontario, canada",valid,CA,Canada
+Bielefeld Germany,Bielefeld Germany,bielefeld germany,valid,DE,Germany
+a little ways north in the Evergreen Forest,a little ways north in the Evergreen Forest,a little ways north in the evergreen forest,valid,US,United States
+Minas Gerais - Brazil,Minas Gerais - Brazil,minas gerais - brazil,valid,BR,Brazil
+"Sydney, AUS","Sydney, AUS","sydney, aus",ambiguous,,
+"Bangalore, Karnataka, India","Bangalore, Karnataka, India","bangalore, karnataka, india",valid,IN,India
+Cleveland,Cleveland,cleveland,ambiguous,,
+Catania,Catania,catania,ambiguous,,
+Denmark,Denmark,denmark,valid,DK,Denmark
+Grenoble,Grenoble,grenoble,ambiguous,,
+Zurich/Switzerland,Zurich/Switzerland,"zurich,switzerland",valid,CH,Switzerland
+Utrecht,Utrecht,utrecht,ambiguous,,
+Wuhan,Wuhan,wuhan,ambiguous,,
+"Electronic City, Bangalore","Electronic City, Bangalore","electronic city, bangalore",ambiguous,,
+"Yangon, Myanmar","Yangon, Myanmar","yangon, myanmar",valid,MM,Myanmar
+Vancouver - BC - Canada,Vancouver - BC - Canada,vancouver - bc - canada,valid,CA,Canada
+Bergen,Bergen,bergen,ambiguous,,
+"Columbus,Ohio","Columbus,Ohio","columbus,ohio",valid,US,United States
+"Turkey, Mersin","Turkey, Mersin","turkey, mersin",ambiguous,,
+Hyderabad,Hyderabad,hyderabad,ambiguous,,
+"Chicago, Illinois","Chicago, Illinois","chicago, illinois",valid,US,United States
+Lausanne,Lausanne,lausanne,ambiguous,,
+New York and Seattle,New York and Seattle,new york and seattle,ambiguous,,
+San Francisco ,San Francisco ,san francisco,ambiguous,,
+"Quebec, Quebec","Quebec, Quebec","quebec, quebec",valid,CA,Canada
+"Cairo, EGY","Cairo, EGY","cairo, egy",ambiguous,,
+Manchester,Manchester,manchester,ambiguous,,
+Rennes,Rennes,rennes,ambiguous,,
+"Rio de Janeiro, Brasil","Rio de Janeiro, Brasil","rio de janeiro, brasil",valid,US,United States
+"Raleigh, North Carolina","Raleigh, North Carolina","raleigh, north carolina",ambiguous,,
+Istanbul ,Istanbul ,istanbul,ambiguous,,
+Vancouver BC,Vancouver BC,vancouver bc,valid,CA,Canada
+Spain,Spain,spain,valid,ES,Spain
+"Ausgburg, Germany","Ausgburg, Germany","ausgburg, germany",valid,DE,Germany
+"White Plains, NY","White Plains, NY","white plains, ny",valid,US,United States
+"Pittsburgh, Pennsylvania","Pittsburgh, Pennsylvania","pittsburgh, pennsylvania",valid,US,United States
+"Ithaca, NY, USA","Ithaca, NY, USA","ithaca, ny, usa",valid,US,United States
+"Europe (currently Wroclaw, Poland)","Europe (currently Wroclaw, Poland)","europe (currently wroclaw, poland)",ambiguous,,
+Kolkata,Kolkata,kolkata,ambiguous,,
+"Dubai, UAE","Dubai, UAE","dubai, uae",ambiguous,,
+"Wuhan, China","Wuhan, China","wuhan, china",valid,CN,China
+"Aachen, Germany","Aachen, Germany","aachen, germany",valid,DE,Germany
+"San Diego, CA, USA","San Diego, CA, USA","san diego, ca, usa",valid,US,United States
+"Nancy, France","Nancy, France","nancy, france",valid,FR,France
+Egypt,Egypt,egypt,valid,EG,Egypt
+Köln,Köln,köln,ambiguous,,
+"Minas Gerais, Brasil","Minas Gerais, Brasil","minas gerais, brasil",ambiguous,,
+"Orlando, FL","Orlando, FL","orlando, fl",valid,US,United States
+"Nijmegen, Netherlands","Nijmegen, Netherlands","nijmegen, netherlands",valid,NL,Netherlands
+"Saint Louis, MO","Saint Louis, MO","saint louis, mo",valid,US,United States
+Hangzhou,Hangzhou,hangzhou,ambiguous,,
+"Qianjiang, Hubei, China","Qianjiang, Hubei, China","qianjiang, hubei, china",valid,CN,China
+"Graz, Austria","Graz, Austria","graz, austria",valid,AT,Austria
+Montreal (Canada),Montreal (Canada),montreal (canada),ambiguous,,
+"Bengaluru,  India","Bengaluru,  India","bengaluru, india",valid,IN,India
+"Tübingen, Germany","Tübingen, Germany","tübingen, germany",valid,DE,Germany
+Calgary AB,Calgary AB,calgary ab,valid,CA,Canada
+Planet Earth,Planet Earth,planet earth,non-geographic,,
+Poland,Poland,poland,valid,PL,Poland
+Madrid,Madrid,madrid,ambiguous,,
+NanJing JiangSu,NanJing JiangSu,nanjing jiangsu,ambiguous,,
+"Amsterdam, Netherlands","Amsterdam, Netherlands","amsterdam, netherlands",valid,NL,Netherlands
+"Toronto, Canada","Toronto, Canada","toronto, canada",valid,CA,Canada
+Atlanta,Atlanta,atlanta,ambiguous,,
+"Kolkata,West Bengal","Kolkata,West Bengal","kolkata,west bengal",ambiguous,,
+mumbai,mumbai,mumbai,ambiguous,,
+Donostia - San Sebastián,Donostia - San Sebastián,donostia - san sebastián,ambiguous,,
+"Stanford, CA","Stanford, CA","stanford, ca",valid,US,United States
+Ankara,Ankara,ankara,ambiguous,,
+"Prague, Czech Republic","Prague, Czech Republic","prague, czech republic",valid,CZ,Czechia
+"Heidelberg, Germany","Heidelberg, Germany","heidelberg, germany",valid,DE,Germany
+Vigo,Vigo,vigo,ambiguous,,
+moon,moon,moon,ambiguous,,
+Greater Tokyo Area,Greater Tokyo Area,greater tokyo area,ambiguous,,
+"Minneapolis, Minnesota","Minneapolis, Minnesota","minneapolis, minnesota",valid,US,United States
+Where AI meets Humanity,Where AI meets Humanity,where ai meets humanity,ambiguous,,
+"Delft, Netherlands","Delft, Netherlands","delft, netherlands",valid,NL,Netherlands
+S.KOREA,S.KOREA,s.korea,ambiguous,,
+"in the stars, right now","in the stars, right now","in the stars, right now",valid,US,United States
+"Hoboken, New Jersey","Hoboken, New Jersey","hoboken, new jersey",valid,JE,Jersey
+NYC,NYC,nyc,ambiguous,,
+Sri Lanka,Sri Lanka,sri lanka,valid,LK,Sri Lanka
+Agadir ,Agadir ,agadir,ambiguous,,
+"Notre Dame, Indiana, US","Notre Dame, Indiana, US","notre dame, indiana, us",valid,US,United States
+Liverpool,Liverpool,liverpool,ambiguous,,
+Dammam,Dammam,dammam,ambiguous,,
+Australia,Australia,australia,valid,AU,Australia
+"BC, Canada","BC, Canada","bc, canada",valid,CA,Canada
+"Ottawa, ON, Canada","Ottawa, ON, Canada","ottawa, on, canada",valid,CA,Canada
+"Cambridge, UK","Cambridge, UK","cambridge, uk",valid,GB,United Kingdom
+渤海大道 21 号,渤海大道 21 号,渤海大道 21 号,ambiguous,,
+"Montréal, Canada","Montréal, Canada","montréal, canada",valid,CA,Canada
+GuangZhou,GuangZhou,guangzhou,ambiguous,,
+Omnipresent,Omnipresent,omnipresent,ambiguous,,
+82/14/16 Nguyễn xí phường 26 bình thạnh hồ chí minh,82/14/16 Nguyễn xí phường 26 bình thạnh hồ chí minh,"82,14,16 nguyễn xí phường 26 bình thạnh hồ chí minh",ambiguous,,
+Shanghai(CN) & Sydney(AU),Shanghai(CN) & Sydney(AU),shanghai(cn) & sydney(au),ambiguous,,
+Tallinn,Tallinn,tallinn,ambiguous,,
+"Kottayam, Kerala","Kottayam, Kerala","kottayam, kerala",ambiguous,,
+pune,pune,pune,ambiguous,,
+"Amherst, MA","Amherst, MA","amherst, ma",valid,US,United States
+"San Jose, California","San Jose, California","san jose, california",valid,US,United States
+"Auckland, New Zealand","Auckland, New Zealand","auckland, new zealand",valid,NZ,New Zealand
+Oxford,Oxford,oxford,ambiguous,,
+"Sheffield, UK","Sheffield, UK","sheffield, uk",valid,GB,United Kingdom
+"Brazil, São Paulo","Brazil, São Paulo","brazil, são paulo",valid,BR,Brazil
+Vancouver,Vancouver,vancouver,ambiguous,,
+"Cambridge, Boston","Cambridge, Boston","cambridge, boston",ambiguous,,
+HangZhou,HangZhou,hangzhou,ambiguous,,
+"Guangzhou,China","Guangzhou,China","guangzhou,china",valid,CN,China
+Charlottesville,Charlottesville,charlottesville,ambiguous,,
+"Bala Cynwyd, PA","Bala Cynwyd, PA","bala cynwyd, pa",valid,US,United States
+European Union,European Union,european union,ambiguous,,
+Brno,Brno,brno,ambiguous,,
+"Montreal, QC","Montreal, QC","montreal, qc",valid,CA,Canada
+Shenzhen,Shenzhen,shenzhen,ambiguous,,
+"Tübingen , Germany","Tübingen , Germany","tübingen , germany",valid,DE,Germany
+"Bengaluru, Karnataka","Bengaluru, Karnataka","bengaluru, karnataka",ambiguous,,
+"Urbana-Champaign, IL","Urbana-Champaign, IL","urbana-champaign, il",valid,US,United States
+"Ulsan, Korea","Ulsan, Korea","ulsan, korea",valid,KR,"Korea, Republic of"
+"Paris,France","Paris,France","paris,france",valid,FR,France
+"Curitiba, Paraná, Brazil","Curitiba, Paraná, Brazil","curitiba, paraná, brazil",valid,BR,Brazil
+"Lausanne, CH","Lausanne, CH","lausanne, ch",ambiguous,,
+Beijing China,Beijing China,beijing china,valid,CN,China
+"Abu Dhabi, UAE","Abu Dhabi, UAE","abu dhabi, uae",ambiguous,,
+"Padua, Italy","Padua, Italy","padua, italy",valid,IT,Italy
+San Sebastian,San Sebastian,san sebastian,ambiguous,,
+Pesaro,Pesaro,pesaro,ambiguous,,
+"Formerly - INFN - Sezione di Torino. Via Pietro Giuria 1, Turin (Italy)","Formerly - INFN - Sezione di Torino. Via Pietro Giuria 1, Turin (Italy)","formerly - infn - sezione di torino. via pietro giuria 1, turin (italy)",ambiguous,,
+"Beijing, P.R. China","Beijing, P.R. China","beijing, p.r. china",valid,CN,China
+"Algiers, Algeria.","Algiers, Algeria.","algiers, algeria",valid,DZ,Algeria
+ShenYang,ShenYang,shenyang,ambiguous,,
+Lyon,Lyon,lyon,ambiguous,,
+"Waterloo, ON","Waterloo, ON","waterloo, on",valid,CA,Canada
+Zürich,Zürich,zürich,ambiguous,,
+"Trier, Germany","Trier, Germany","trier, germany",valid,DE,Germany
+"Yokohama City, Kanagawa","Yokohama City, Kanagawa","yokohama city, kanagawa",ambiguous,,
+"Russia, Saint-Petersburg","Russia, Saint-Petersburg","russia, saint-petersburg",valid,RU,Russian Federation
+Ingelheim,Ingelheim,ingelheim,ambiguous,,
+"Lagos, Nigeria","Lagos, Nigeria","lagos, nigeria",valid,NG,Nigeria
+"Arkansas, USA","Arkansas, USA","arkansas, usa",valid,US,United States
+Singapore/US/Africa,Singapore/US/Africa,"singapore,us,africa",valid,SG,Singapore
+Ethiopia,Ethiopia,ethiopia,valid,ET,Ethiopia
+Bologna,Bologna,bologna,ambiguous,,
+"Daejeon or Suwon, Korea Rep.","Daejeon or Suwon, Korea Rep.","daejeon or suwon, korea rep",valid,US,United States
+Gurugram,Gurugram,gurugram,ambiguous,,
+"Penang,Malaysia","Penang,Malaysia","penang,malaysia",valid,MY,Malaysia
+"Western MA, USA","Western MA, USA","western ma, usa",valid,US,United States
+"London / Cambridge, UK","London / Cambridge, UK","london , cambridge, uk",valid,GB,United Kingdom
+沈阳,沈阳,沈阳,ambiguous,,
+"Tampa, FL","Tampa, FL","tampa, fl",valid,US,United States
+Moratuwa,Moratuwa,moratuwa,ambiguous,,
+"Tartu, Estonia","Tartu, Estonia","tartu, estonia",valid,EE,Estonia
+"Sunshine Coast, Australia","Sunshine Coast, Australia","sunshine coast, australia",valid,AU,Australia
+"St Louis, MO","St Louis, MO","st louis, mo",valid,US,United States
+"Binghamton, NY","Binghamton, NY","binghamton, ny",valid,US,United States
+Germany / Braunschweig,Germany / Braunschweig,"germany , braunschweig",valid,DE,Germany
+China - Beijing,China - Beijing,china - beijing,valid,CN,China
+Japan,Japan,japan,valid,JP,Japan
+Chapel Hill,Chapel Hill,chapel hill,ambiguous,,
+"Shanghai, China","Shanghai, China","shanghai, china",valid,CN,China
+Cloud,Cloud,cloud,ambiguous,,
+"Shanghai,China","Shanghai,China","shanghai,china",valid,CN,China
+Toronto CA,Toronto CA,toronto ca,valid,US,United States
+Tianjin,Tianjin,tianjin,ambiguous,,
+Istanbul,Istanbul,istanbul,ambiguous,,
+"Kuala Lumpur, Malaysia","Kuala Lumpur, Malaysia","kuala lumpur, malaysia",valid,MY,Malaysia
+"Mars, Solar","Mars, Solar","mars, solar",non-geographic,,
+"Saskatoon, Saskatchewan","Saskatoon, Saskatchewan","saskatoon, saskatchewan",valid,CA,Canada
+Bogotá / Colombia,Bogotá / Colombia,"bogotá , colombia",valid,CO,Colombia
+"Nizhny Novgorod, Russia","Nizhny Novgorod, Russia","nizhny novgorod, russia",valid,RU,Russian Federation
+Kenya,Kenya,kenya,valid,KE,Kenya
+Münich,Münich,münich,ambiguous,,
+Prague,Prague,prague,ambiguous,,
+"Santa Clara, CA","Santa Clara, CA","santa clara, ca",valid,US,United States
+Cottbus Germany,Cottbus Germany,cottbus germany,valid,DE,Germany
+"Pune, India","Pune, India","pune, india",valid,IN,India
+"Roma, Italy","Roma, Italy","roma, italy",valid,IT,Italy
+"Tainan, Taiwan","Tainan, Taiwan","tainan, taiwan",valid,TW,"Taiwan, Province of China"
+Mexico City,Mexico City,mexico city,valid,MX,Mexico
+Ghaziabad ,Ghaziabad ,ghaziabad,ambiguous,,
+"La Jolla, CA","La Jolla, CA","la jolla, ca",valid,US,United States
+Sanfancisco,Sanfancisco,sanfancisco,ambiguous,,
+"Hangzhou,China","Hangzhou,China","hangzhou,china",valid,CN,China
+Gananvaram,Gananvaram,gananvaram,ambiguous,,
+"Lagos, Nigeria.","Lagos, Nigeria.","lagos, nigeria",valid,NG,Nigeria
+"Oakland, California","Oakland, California","oakland, california",valid,US,United States
+St. Petersburg,St. Petersburg,st. petersburg,ambiguous,,
+"Washington, D.C.","Washington, D.C.","washington, d.c",valid,US,United States
+Brisbane,Brisbane,brisbane,ambiguous,,
+Boston Area,Boston Area,boston area,ambiguous,,
+☁️,☁️,️,ambiguous,,
+Bethesda,Bethesda,bethesda,ambiguous,,
+"ShenZhen, China","ShenZhen, China","shenzhen, china",valid,CN,China
+"Rockford, IL","Rockford, IL","rockford, il",valid,US,United States
+"Fullerton, USA","Fullerton, USA","fullerton, usa",valid,US,United States
+"Sofia, Bulgaria","Sofia, Bulgaria","sofia, bulgaria",valid,BG,Bulgaria
+"Porto Alegre, Brasil","Porto Alegre, Brasil","porto alegre, brasil",ambiguous,,
+"Aarhus, Denmark","Aarhus, Denmark","aarhus, denmark",valid,DK,Denmark
+Random Forest ,Random Forest ,random forest,ambiguous,,
+Roma,Roma,roma,ambiguous,,
+"HKSAR, China","HKSAR, China","hksar, china",valid,CN,China
+"Zurich, Switzerland.","Zurich, Switzerland.","zurich, switzerland",valid,CH,Switzerland
+"Kyoto, Japan","Kyoto, Japan","kyoto, japan",valid,JP,Japan
+University of Edinburgh,University of Edinburgh,university of edinburgh,ambiguous,,
+"Stavanger, Norway","Stavanger, Norway","stavanger, norway",valid,NO,Norway
+Chennai ,Chennai ,chennai,ambiguous,,
+"Haidian, Beijing","Haidian, Beijing","haidian, beijing",ambiguous,,
+"Bangalore, Karnataka","Bangalore, Karnataka","bangalore, karnataka",ambiguous,,
+Harbin,Harbin,harbin,ambiguous,,
+"Baltimore, MD","Baltimore, MD","baltimore, md",valid,US,United States
+"Varese, Italy","Varese, Italy","varese, italy",valid,IT,Italy
+BJ,BJ,bj,ambiguous,,
+CO,CO,co,valid,US,United States
+"Brattleboro, VT","Brattleboro, VT","brattleboro, vt",valid,US,United States
+"Provo, Utah","Provo, Utah","provo, utah",valid,US,United States
+"L'viv, Ukraine","L'viv, Ukraine","lviv, ukraine",valid,UA,Ukraine
+Brasilia,Brasilia,brasilia,ambiguous,,
+"Allahabad, Uttar Pradesh, India","Allahabad, Uttar Pradesh, India","allahabad, uttar pradesh, india",valid,IN,India
+"Komoka, Ontario","Komoka, Ontario","komoka, ontario",valid,CA,Canada
+Callifornia,Callifornia,callifornia,ambiguous,,
+United States,United States,united states,valid,US,United States
+"Basel, Switzerland","Basel, Switzerland","basel, switzerland",valid,CH,Switzerland
+"Pittsburgh, PA","Pittsburgh, PA","pittsburgh, pa",valid,US,United States
+Levallois-Perret,Levallois-Perret,levallois-perret,ambiguous,,
+"Campinas - SP , Brazil","Campinas - SP , Brazil","campinas - sp , brazil",valid,BR,Brazil
+Porto Alegre/RS,Porto Alegre/RS,"porto alegre,rs",ambiguous,,
+Noida,Noida,noida,ambiguous,,
+Nagoya,Nagoya,nagoya,ambiguous,,
+Tel Aviv - Israel,Tel Aviv - Israel,tel aviv - israel,valid,IL,Israel
+"Lakewood, CO","Lakewood, CO","lakewood, co",valid,US,United States
+"Lille, France","Lille, France","lille, france",valid,FR,France
+"Beijing, Mainland China","Beijing, Mainland China","beijing, mainland china",valid,CN,China
+"California, United States","California, United States","california, united states",valid,US,United States
+"Washington, DC","Washington, DC","washington, dc",valid,US,United States
+Centurion,Centurion,centurion,ambiguous,,
+Pennsylvania USA,Pennsylvania USA,pennsylvania usa,valid,US,United States
+"Frankfurt, Germany","Frankfurt, Germany","frankfurt, germany",valid,DE,Germany
+Suzhou,Suzhou,suzhou,ambiguous,,
+"Alicante, Spain","Alicante, Spain","alicante, spain",valid,ES,Spain
+"Lyon, France","Lyon, France","lyon, france",valid,FR,France
+"Ithaca,NY","Ithaca,NY","ithaca,ny",valid,US,United States
+Pangyo,Pangyo,pangyo,ambiguous,,
+"Shenzhen, China","Shenzhen, China","shenzhen, china",valid,CN,China
+Arizona,Arizona,arizona,valid,US,United States
+"Seoul,Korea","Seoul,Korea","seoul,korea",valid,KR,"Korea, Republic of"
+Kansas City,Kansas City,kansas city,valid,US,United States
+"Berlin, Germany","Berlin, Germany","berlin, germany",valid,DE,Germany
+"Hillsboro, OR, USA","Hillsboro, OR, USA","hillsboro, or, usa",valid,US,United States
+MUZAFFARPUR,MUZAFFARPUR,muzaffarpur,ambiguous,,
+"shenzhen, china","shenzhen, china","shenzhen, china",valid,CN,China
+"London, U.K","London, U.K","london, u.k",ambiguous,,
+"1601 McCarthy Blvd, Milpitas, CA 95035, US","1601 McCarthy Blvd, Milpitas, CA 95035, US","1601 mccarthy blvd, milpitas, ca 95035, us",valid,US,United States
+Mountain View CA,Mountain View CA,mountain view ca,valid,US,United States
+University of Glasgow,University of Glasgow,university of glasgow,ambiguous,,
+Massachusetts,Massachusetts,massachusetts,valid,US,United States
+"Fairfax, VA","Fairfax, VA","fairfax, va",valid,US,United States
+"Cali, Colombia","Cali, Colombia","cali, colombia",valid,CO,Colombia
+"Oxford, United Kingdom","Oxford, United Kingdom","oxford, united kingdom",valid,GB,United Kingdom
+"Malmo, Sweden","Malmo, Sweden","malmo, sweden",valid,SE,Sweden
+Pakistan,Pakistan,pakistan,valid,PK,Pakistan
+China.Liuzhou,China.Liuzhou,china.liuzhou,ambiguous,,
+Haldia,Haldia,haldia,ambiguous,,
+"Cincinnati, Ohio","Cincinnati, Ohio","cincinnati, ohio",valid,US,United States
+Melbourne,Melbourne,melbourne,ambiguous,,
+"Haidian District, Beijing","Haidian District, Beijing","haidian district, beijing",ambiguous,,
+Chambéry,Chambéry,chambéry,ambiguous,,
+"Marlboro, NJ, USA","Marlboro, NJ, USA","marlboro, nj, usa",valid,US,United States
+"Columbus, Ohio","Columbus, Ohio","columbus, ohio",valid,US,United States
+"Hannover, Germany","Hannover, Germany","hannover, germany",valid,DE,Germany
+Daejeon,Daejeon,daejeon,ambiguous,,
+"Lausanne, Switzerland","Lausanne, Switzerland","lausanne, switzerland",valid,CH,Switzerland
+Annecy,Annecy,annecy,ambiguous,,
+"Urbana, Illinois, USA","Urbana, Illinois, USA","urbana, illinois, usa",valid,US,United States
+"Heidelberg, Germany ","Heidelberg, Germany ","heidelberg, germany",valid,DE,Germany
+"Prague, Czechia","Prague, Czechia","prague, czechia",valid,CZ,Czechia
+"Cork, Ireland","Cork, Ireland","cork, ireland",valid,IE,Ireland
+SHANGHAI,SHANGHAI,shanghai,ambiguous,,
+Cayman Islands / USA,Cayman Islands / USA,"cayman islands , usa",valid,US,United States
+Santos ⟷ São Paulo,Santos ⟷ São Paulo,santos ⟷ são paulo,ambiguous,,
+"Munich, Bavaria, Germany","Munich, Bavaria, Germany","munich, bavaria, germany",valid,DE,Germany
+"columbia, mo","columbia, mo","columbia, mo",valid,US,United States
+Mumbai,Mumbai,mumbai,ambiguous,,
+"Hyderabad, India","Hyderabad, India","hyderabad, india",valid,IN,India
+"Mountain View, Ca","Mountain View, Ca","mountain view, ca",valid,US,United States
+China Shenzhen ,China Shenzhen ,china shenzhen,valid,CN,China
+"Nanjing, Jiangsu, China ","Nanjing, Jiangsu, China ","nanjing, jiangsu, china",valid,CN,China
+Edmonton,Edmonton,edmonton,ambiguous,,
+Skopje,Skopje,skopje,ambiguous,,
+Colorado,Colorado,colorado,valid,US,United States
+"Edinburgh, Scotland","Edinburgh, Scotland","edinburgh, scotland",ambiguous,,
+Zhejiang Ningbo,Zhejiang Ningbo,zhejiang ningbo,ambiguous,,
+Pennsylvania,Pennsylvania,pennsylvania,valid,US,United States
+Suwon,Suwon,suwon,ambiguous,,
+"Darmstadt, Germany","Darmstadt, Germany","darmstadt, germany",valid,DE,Germany
+Kathmandu,Kathmandu,kathmandu,ambiguous,,
+"Iași, România","Iași, România","iași, românia",ambiguous,,
+New England,New England,new england,ambiguous,,
+"Austin,TX","Austin,TX","austin,tx",valid,US,United States
+Champaign,Champaign,champaign,ambiguous,,
+"6, Buljeong-ro, Bundang-gu, Seongnam-si, Gyeonggi-do, Republic of Korea","6, Buljeong-ro, Bundang-gu, Seongnam-si, Gyeonggi-do, Republic of Korea","6, buljeong-ro, bundang-gu, seongnam-si, gyeonggi-do, republic of korea",valid,KR,"Korea, Republic of"
+Greater Seattle Area,Greater Seattle Area,greater seattle area,ambiguous,,
+"Dallas, TX","Dallas, TX","dallas, tx",valid,US,United States
+Amman - Jordan,Amman - Jordan,amman - jordan,valid,JO,Jordan
+"Cairo, Egypt","Cairo, Egypt","cairo, egypt",valid,EG,Egypt
+Texas,Texas,texas,valid,US,United States
+"Indianapolis, United States ","Indianapolis, United States ","indianapolis, united states",valid,US,United States
+"Raleigh, NC","Raleigh, NC","raleigh, nc",valid,US,United States
+Anywhere on Earth,Anywhere on Earth,anywhere on earth,non-geographic,,
+Uppsala,Uppsala,uppsala,ambiguous,,
+"Davis, CA","Davis, CA","davis, ca",valid,US,United States
+Buenos Aires,Buenos Aires,buenos aires,ambiguous,,
+Tunisie,Tunisie,tunisie,ambiguous,,
+"Skopje, R. Macedonia","Skopje, R. Macedonia","skopje, r. macedonia",ambiguous,,
+"Valencia, ES","Valencia, ES","valencia, es",ambiguous,,
+Warsaw,Warsaw,warsaw,ambiguous,,
+Miami/NYC,Miami/NYC,"miami,nyc",ambiguous,,
+"MNL, Philippines","MNL, Philippines","mnl, philippines",valid,PH,Philippines
+"Danville, CA","Danville, CA","danville, ca",valid,US,United States
+"KAIST, Korea","KAIST, Korea","kaist, korea",valid,KR,"Korea, Republic of"
+"Gurgaon, India.","Gurgaon, India.","gurgaon, india",valid,IN,India
+New Zealand,New Zealand,new zealand,valid,NZ,New Zealand
+"Paris area, France","Paris area, France","paris area, france",valid,FR,France
+SF & NY,SF & NY,sf & ny,valid,US,United States
+"Los Angeles, CA","Los Angeles, CA","los angeles, ca",valid,US,United States
+"College Park, Maryland","College Park, Maryland","college park, maryland",valid,US,United States
+경기도 성남시 분당구 판교로 264 (삼평동),경기도 성남시 분당구 판교로 264 (삼평동),경기도 성남시 분당구 판교로 264 (삼평동),ambiguous,,
+Turkey,Turkey,turkey,ambiguous,,
+"Hounslow, United Kingdom","Hounslow, United Kingdom","hounslow, united kingdom",valid,GB,United Kingdom
+"Goiania, Brazil","Goiania, Brazil","goiania, brazil",valid,BR,Brazil
+Stony Brook,Stony Brook,stony brook,ambiguous,,
+Phoenix,Phoenix,phoenix,ambiguous,,
+"Thessaloniki, Greece","Thessaloniki, Greece","thessaloniki, greece",valid,GR,Greece
+Norway,Norway,norway,valid,NO,Norway
+"New York, US","New York, US","new york, us",ambiguous,,
+"HangZhou, China","HangZhou, China","hangzhou, china",valid,CN,China
+Tunis,Tunis,tunis,ambiguous,,
+"Amsterdam, NL","Amsterdam, NL","amsterdam, nl",valid,CA,Canada
+"Dajeon, Republic of Korea","Dajeon, Republic of Korea","dajeon, republic of korea",valid,KR,"Korea, Republic of"
+"Santa Cruz, CA","Santa Cruz, CA","santa cruz, ca",valid,US,United States
+"Athens, Attica, Greece","Athens, Attica, Greece","athens, attica, greece",valid,GR,Greece
+"No. 37, Xueyuan Road, Haidian District, Beijing","No. 37, Xueyuan Road, Haidian District, Beijing","no. 37, xueyuan road, haidian district, beijing",ambiguous,,
+Vienna,Vienna,vienna,ambiguous,,
+"Eindhoven, The Netherlands","Eindhoven, The Netherlands","eindhoven, the netherlands",valid,NL,Netherlands
+Korea,Korea,korea,valid,KR,"Korea, Republic of"
+"Punjab, India","Punjab, India","punjab, india",valid,IN,India
+"Urbana, Illinois","Urbana, Illinois","urbana, illinois",valid,US,United States
+"Bengaluru,Karnataka,India","Bengaluru,Karnataka,India","bengaluru,karnataka,india",valid,IN,India
+Vizag,Vizag,vizag,ambiguous,,
+"SuZhou,China","SuZhou,China","suzhou,china",valid,CN,China
+"Luoyu Road 1037, Hongshan, Wuhan, Hubei, China","Luoyu Road 1037, Hongshan, Wuhan, Hubei, China","luoyu road 1037, hongshan, wuhan, hubei, china",valid,CN,China
+Tehran,Tehran,tehran,ambiguous,,
+"seoul, korea","seoul, korea","seoul, korea",valid,KR,"Korea, Republic of"
+Dalian,Dalian,dalian,ambiguous,,
+Vietnam,Vietnam,vietnam,ambiguous,,
+Krakow,Krakow,krakow,ambiguous,,
+"Nijmegen area, NL","Nijmegen area, NL","nijmegen area, nl",valid,CA,Canada
+"Helsinki, Finland","Helsinki, Finland","helsinki, finland",valid,FI,Finland
+Desert ,Desert ,desert,ambiguous,,
+The Netherlands,The Netherlands,the netherlands,valid,NL,Netherlands
+"Lucknow, India","Lucknow, India","lucknow, india",valid,IN,India
+"Seoul, Korea","Seoul, Korea","seoul, korea",valid,KR,"Korea, Republic of"
+Guatemala City,Guatemala City,guatemala city,valid,GT,Guatemala
+"Paphos, Cyprus","Paphos, Cyprus","paphos, cyprus",valid,CY,Cyprus
+Hedehusene (Denmark),Hedehusene (Denmark),hedehusene (denmark),ambiguous,,
+Esch-sur-Alzette,Esch-sur-Alzette,esch-sur-alzette,ambiguous,,
+"Houston, Texas","Houston, Texas","houston, texas",valid,US,United States
+"San Mateo, CA","San Mateo, CA","san mateo, ca",valid,US,United States
+Ottawa,Ottawa,ottawa,ambiguous,,
+HangZhou in China,HangZhou in China,hangzhou in china,valid,US,United States
+USA (Berkeley),USA (Berkeley),usa (berkeley),valid,US,United States
+"Santa Cruz, California","Santa Cruz, California","santa cruz, california",valid,US,United States
+Tübingen ,Tübingen ,tübingen,ambiguous,,
+singapore,singapore,singapore,valid,SG,Singapore
+Durham,Durham,durham,ambiguous,,
+Bali 🏖️,Bali 🏖️,bali ️,ambiguous,,
+Swatow,Swatow,swatow,ambiguous,,
+"Russia, Nizhny Novgorod","Russia, Nizhny Novgorod","russia, nizhny novgorod",valid,RU,Russian Federation
+"shanghai,china","shanghai,china","shanghai,china",valid,CN,China
+AOE,AOE,aoe,ambiguous,,
+Tunisia,Tunisia,tunisia,valid,TN,Tunisia
+"Greater Detroit, MI.","Greater Detroit, MI.","greater detroit, mi",valid,US,United States
+"Kolkata, West Bengal, INDIA","Kolkata, West Bengal, INDIA","kolkata, west bengal, india",valid,IN,India
+"Noida, India","Noida, India","noida, india",valid,IN,India
+"Leipzig, Germany","Leipzig, Germany","leipzig, germany",valid,DE,Germany
+"Nanjing, CN","Nanjing, CN","nanjing, cn",ambiguous,,
+"Austin, TX, US","Austin, TX, US","austin, tx, us",valid,US,United States
+"Lokoja, Nigeria","Lokoja, Nigeria","lokoja, nigeria",valid,NG,Nigeria
+"San Francisco Bay Area, CA","San Francisco Bay Area, CA","san francisco bay area, ca",valid,US,United States
+Iberian Peninsula,Iberian Peninsula,iberian peninsula,ambiguous,,
+"Verona, Italy","Verona, Italy","verona, italy",valid,IT,Italy
+Donostia - San Sebastián ,Donostia - San Sebastián ,donostia - san sebastián,ambiguous,,
+"Aarhus, DK","Aarhus, DK","aarhus, dk",ambiguous,,
+Vitória - Brazil,Vitória - Brazil,vitória - brazil,valid,BR,Brazil
+"Moscow, Chisinau","Moscow, Chisinau","moscow, chisinau",ambiguous,,
+"Cambridge, Massachusetts","Cambridge, Massachusetts","cambridge, massachusetts",valid,US,United States
+"Blacksburg, Virginia","Blacksburg, Virginia","blacksburg, virginia",valid,US,United States
+"Calgary, Canada","Calgary, Canada","calgary, canada",valid,CA,Canada
+Jakarta,Jakarta,jakarta,ambiguous,,
+"Rochester, MN","Rochester, MN","rochester, mn",valid,US,United States
+"Austin, TX, USA","Austin, TX, USA","austin, tx, usa",valid,US,United States
+"Kelowna, BC, Canada","Kelowna, BC, Canada","kelowna, bc, canada",valid,CA,Canada
+Innopolis,Innopolis,innopolis,ambiguous,,
+ZheJiang Province,ZheJiang Province,zhejiang province,ambiguous,,
+"Poznań, Poland","Poznań, Poland","poznań, poland",valid,PL,Poland
+"Merced, CA","Merced, CA","merced, ca",valid,US,United States
+"Da Nang, Viet Nam","Da Nang, Viet Nam","da nang, viet nam",valid,VN,Viet Nam
+ Hong Kong , Hong Kong ,hong kong,valid,HK,Hong Kong
+dalian,dalian,dalian,ambiguous,,
+Mexico,Mexico,mexico,valid,MX,Mexico
+INDIA,INDIA,india,valid,IN,India
+"Tyler, TX","Tyler, TX","tyler, tx",valid,US,United States
+"Chapel Hill, NC, US","Chapel Hill, NC, US","chapel hill, nc, us",valid,US,United States
+"Rabat,Morocco","Rabat,Morocco","rabat,morocco",valid,MA,Morocco
+"Omaha, USA","Omaha, USA","omaha, usa",valid,US,United States
+"San Francisco, California","San Francisco, California","san francisco, california",valid,US,United States
+Belfast Northern Ireland,Belfast Northern Ireland,belfast northern ireland,valid,IE,Ireland
+"Tabriz, Iran","Tabriz, Iran","tabriz, iran",valid,IR,"Iran, Islamic Republic of"
+Tanzania,Tanzania,tanzania,ambiguous,,
+"Sunnyvale, CA","Sunnyvale, CA","sunnyvale, ca",valid,US,United States
+NIGERIA,NIGERIA,nigeria,valid,NG,Nigeria
+"IA, US","IA, US","ia, us",valid,US,United States
+The Chinese University of Hong Kong,The Chinese University of Hong Kong,the chinese university of hong kong,ambiguous,,
+Mysore,Mysore,mysore,ambiguous,,
+Yerevan,Yerevan,yerevan,ambiguous,,
+West Virginia,West Virginia,west virginia,valid,US,United States
+"istanbul, turkey","istanbul, turkey","istanbul, turkey",ambiguous,,
+Groningen,Groningen,groningen,ambiguous,,
+somewhere in the world,somewhere in the world,somewhere in the world,valid,US,United States
+"Dubai, UAE.","Dubai, UAE.","dubai, uae",ambiguous,,
+Not San Francisco,Not San Francisco,not san francisco,ambiguous,,
+"Vancouver, Canada","Vancouver, Canada","vancouver, canada",valid,CA,Canada
+New Haven / Shanghai,New Haven / Shanghai,"new haven , shanghai",ambiguous,,
+"Brooklyn, NY","Brooklyn, NY","brooklyn, ny",valid,US,United States
+SORRY,SORRY,sorry,ambiguous,,
+"Stockholm, Sweden","Stockholm, Sweden","stockholm, sweden",valid,SE,Sweden
+"Nepal, Kathmandu","Nepal, Kathmandu","nepal, kathmandu",valid,NP,Nepal
+Malaysia,Malaysia,malaysia,valid,MY,Malaysia
+"Peking, P.R.China","Peking, P.R.China","peking, p.r.china",ambiguous,,
+The Moon,The Moon,the moon,ambiguous,,
+"Kharagpur, India","Kharagpur, India","kharagpur, india",valid,IN,India
+Somewhere,Somewhere,somewhere,ambiguous,,
+Nanjing,Nanjing,nanjing,ambiguous,,
+"Hong Kong, China","Hong Kong, China","hong kong, china",valid,CN,China
+Belgium,Belgium,belgium,valid,BE,Belgium
+"Lisbon, Portugal","Lisbon, Portugal","lisbon, portugal",valid,PT,Portugal
+china,china,china,valid,CN,China
+"Tempe,Arizona","Tempe,Arizona","tempe,arizona",valid,US,United States
+BiH,BiH,bih,ambiguous,,
+GuangDong,GuangDong,guangdong,ambiguous,,
+:lua print(vim.fn.expand('~')),:lua print(vim.fn.expand('~')),:lua print(vim.fn.expand(~)),ambiguous,,
+"Germany, Südlohn","Germany, Südlohn","germany, südlohn",valid,DE,Germany
+"Guangzhou, China","Guangzhou, China","guangzhou, china",valid,CN,China
+Banglore,Banglore,banglore,ambiguous,,
+IL,IL,il,valid,US,United States
+chendu,chendu,chendu,ambiguous,,
+Redmond,Redmond,redmond,ambiguous,,
+"Los Angeles, California, United States","Los Angeles, California, United States","los angeles, california, united states",valid,US,United States
+Seoul/Korea,Seoul/Korea,"seoul,korea",valid,KR,"Korea, Republic of"
+"Goa, India","Goa, India","goa, india",valid,IN,India
+"Hoboken, NJ","Hoboken, NJ","hoboken, nj",valid,US,United States
+Freiburg im Breisgau,Freiburg im Breisgau,freiburg im breisgau,ambiguous,,
+"Lafayette, La","Lafayette, La","lafayette, la",valid,US,United States
+"Mystic, CT","Mystic, CT","mystic, ct",valid,US,United States
+"Charlottesville, Virginia","Charlottesville, Virginia","charlottesville, virginia",valid,US,United States
+CQ,CQ,cq,ambiguous,,
+shenzhen,shenzhen,shenzhen,ambiguous,,
+Great Seattle Area,Great Seattle Area,great seattle area,ambiguous,,
+"Vancouver, BC, Canada","Vancouver, BC, Canada","vancouver, bc, canada",valid,CA,Canada
+Erlangen,Erlangen,erlangen,ambiguous,,
+Bangalore / SF,Bangalore / SF,"bangalore , sf",ambiguous,,
+"Ohio, USA","Ohio, USA","ohio, usa",valid,US,United States
+Halifax,Halifax,halifax,ambiguous,,
+"Brussels, Belgium","Brussels, Belgium","brussels, belgium",valid,BE,Belgium
+"Chania, Crete Greece","Chania, Crete Greece","chania, crete greece",valid,GR,Greece
+Tehran - Iran,Tehran - Iran,tehran - iran,valid,IR,"Iran, Islamic Republic of"
+"Gainesville, Fl","Gainesville, Fl","gainesville, fl",valid,US,United States
+Austria,Austria,austria,valid,AT,Austria
+"Cardiff, U.K.","Cardiff, U.K.","cardiff, u.k",ambiguous,,
+"Dubai, UAE ","Dubai, UAE ","dubai, uae",ambiguous,,
+"Buenos Aires, Argentina","Buenos Aires, Argentina","buenos aires, argentina",valid,AR,Argentina
+"Trento, Italy","Trento, Italy","trento, italy",valid,IT,Italy
+Virginia,Virginia,virginia,valid,US,United States
+SF Bay Area,SF Bay Area,sf bay area,ambiguous,,
+"The Hague, The Netherlands","The Hague, The Netherlands","the hague, the netherlands",valid,NL,Netherlands
+wuhan,wuhan,wuhan,ambiguous,,
+Copenhagen · Seattle,Copenhagen · Seattle,"copenhagen , seattle",ambiguous,,
+上海,上海,上海,ambiguous,,
+"Boerne, TX","Boerne, TX","boerne, tx",valid,US,United States
+"Driebergen-Rijsenburg, The Netherlands","Driebergen-Rijsenburg, The Netherlands","driebergen-rijsenburg, the netherlands",valid,NL,Netherlands
+天津河东卫国道翰林园,天津河东卫国道翰林园,天津河东卫国道翰林园,ambiguous,,
+"ShenZhen,China","ShenZhen,China","shenzhen,china",valid,CN,China
+Xi'an,Xi'an,xian,ambiguous,,
+"Bordeaux, France","Bordeaux, France","bordeaux, france",valid,FR,France
+"Madrid, Spain","Madrid, Spain","madrid, spain",valid,ES,Spain
+Remote,Remote,remote,non-geographic,,
+"Los Angeles, USA","Los Angeles, USA","los angeles, usa",valid,US,United States
+Bei.Jing,Bei.Jing,bei.jing,ambiguous,,
+"Burlingame, USA","Burlingame, USA","burlingame, usa",valid,US,United States
+"Nashville, TN","Nashville, TN","nashville, tn",valid,US,United States
+Czech Republic,Czech Republic,czech republic,valid,CZ,Czechia
+"Italy, Rome","Italy, Rome","italy, rome",valid,IT,Italy
+Kerala,Kerala,kerala,ambiguous,,
+Wrocław,Wrocław,wrocław,ambiguous,,
+"OTTAWA, ONTARIO, CANADA","OTTAWA, ONTARIO, CANADA","ottawa, ontario, canada",valid,CA,Canada
+China,China,china,valid,CN,China
+Hull,Hull,hull,ambiguous,,
+"Bandung, Indonesia","Bandung, Indonesia","bandung, indonesia",valid,ID,Indonesia
+"Toronto, Ontario","Toronto, Ontario","toronto, ontario",valid,CA,Canada
+"Ho Chi Minh City, Vietnam","Ho Chi Minh City, Vietnam","ho chi minh city, vietnam",ambiguous,,
+México,México,méxico,ambiguous,,
+https://vocabulary-journal.com,https://vocabulary-journal.com,"https:,vocabulary-journal.com",ambiguous,,
+"College Station, Texas","College Station, Texas","college station, texas",valid,US,United States
+China -> Singapore -> Tokyo -> London,China -> Singapore -> Tokyo -> London,china -> singapore -> tokyo -> london,valid,CN,China
+"São Paulo, Brazil","São Paulo, Brazil","são paulo, brazil",valid,BR,Brazil
+"Cleveland, OH","Cleveland, OH","cleveland, oh",valid,US,United States
+EU,EU,eu,ambiguous,,
+"Houston, TX","Houston, TX","houston, tx",valid,US,United States
+"Grenoble, France","Grenoble, France","grenoble, france",valid,FR,France
+"Toronto, ON, Canada","Toronto, ON, Canada","toronto, on, canada",valid,CA,Canada
+Rome,Rome,rome,ambiguous,,
+"Athens, Greece","Athens, Greece","athens, greece",valid,GR,Greece
+University of Michigan,University of Michigan,university of michigan,valid,US,United States
+"Herndon, VA","Herndon, VA","herndon, va",valid,US,United States
+"Bay Area, California","Bay Area, California","bay area, california",valid,US,United States
+@Chiangmai Thailand,@Chiangmai Thailand,@chiangmai thailand,valid,TH,Thailand
+"Yokohama, JAPAN","Yokohama, JAPAN","yokohama, japan",valid,JP,Japan
+Nashville,Nashville,nashville,ambiguous,,
+"Seattle, WA","Seattle, WA","seattle, wa",valid,US,United States
+"Tucson, AZ","Tucson, AZ","tucson, az",valid,US,United States
+Maastricht,Maastricht,maastricht,ambiguous,,
+"Edmonton, Canada","Edmonton, Canada","edmonton, canada",valid,CA,Canada
+Not UK,Not UK,not uk,valid,GB,United Kingdom
+Shanghai,Shanghai,shanghai,ambiguous,,
+"Los Angeles, California","Los Angeles, California","los angeles, california",valid,US,United States
+Bangalore,Bangalore,bangalore,ambiguous,,
+Nicaragua,Nicaragua,nicaragua,valid,NI,Nicaragua
+"Taiwan, Taipei","Taiwan, Taipei","taiwan, taipei",valid,TW,"Taiwan, Province of China"
+Rechardson,Rechardson,rechardson,ambiguous,,
+"Fukuoka, Japan","Fukuoka, Japan","fukuoka, japan",valid,JP,Japan
+"HK, China","HK, China","hk, china",valid,CN,China
+Jadavpur University,Jadavpur University,jadavpur university,ambiguous,,
+"Maryland, USA","Maryland, USA","maryland, usa",valid,US,United States
+Illinois,Illinois,illinois,valid,US,United States
+"Bethesda, MD","Bethesda, MD","bethesda, md",valid,US,United States
+"New York, U.S.","New York, U.S.","new york, u.s",ambiguous,,
+TianJIn,TianJIn,tianjin,ambiguous,,
+"London, UK","London, UK","london, uk",valid,GB,United Kingdom
+Las Palmas de Gran Canaria,Las Palmas de Gran Canaria,las palmas de gran canaria,valid,US,United States
+Arkansas,Arkansas,arkansas,valid,US,United States
+Switzerland,Switzerland,switzerland,valid,CH,Switzerland
+"Chapel Hill, NC","Chapel Hill, NC","chapel hill, nc",valid,US,United States
+"Mountain View, CA, USA","Mountain View, CA, USA","mountain view, ca, usa",valid,US,United States
+SH,SH,sh,ambiguous,,
+"Changsha, China","Changsha, China","changsha, china",valid,CN,China
+ Boston., Boston.,boston,ambiguous,,
+"Phoenix, AZ","Phoenix, AZ","phoenix, az",valid,US,United States
+"Shatin, N.T., HKSAR","Shatin, N.T., HKSAR","shatin, n.t., hksar",ambiguous,,
+Bangkok,Bangkok,bangkok,ambiguous,,
+"Baridhara DOHS, Dhaka, Bangladesh","Baridhara DOHS, Dhaka, Bangladesh","baridhara dohs, dhaka, bangladesh",valid,BD,Bangladesh
+From Barcelona to the world ;),From Barcelona to the world ;),"from barcelona to the world ,)",ambiguous,,
+Solar system,Solar system,solar system,ambiguous,,
+Brittany,Brittany,brittany,ambiguous,,
+"Heifei, Anhui, China","Heifei, Anhui, China","heifei, anhui, china",valid,CN,China
+Taiwan,Taiwan,taiwan,valid,TW,"Taiwan, Province of China"
+"Lombok, Indonesia","Lombok, Indonesia","lombok, indonesia",valid,ID,Indonesia
+"London, England. Penang, Malaysia.","London, England. Penang, Malaysia.","london, england. penang, malaysia",valid,MY,Malaysia
+"China, Shanghai","China, Shanghai","china, shanghai",valid,CN,China
+"Oxford, UK","Oxford, UK","oxford, uk",valid,GB,United Kingdom
+"Austin, TX","Austin, TX","austin, tx",valid,US,United States
+Washington DC,Washington DC,washington dc,valid,US,United States
+fez in morocco,fez in morocco,fez in morocco,valid,US,United States
+hefei,hefei,hefei,ambiguous,,
+"Daejeon, Korea","Daejeon, Korea","daejeon, korea",valid,KR,"Korea, Republic of"
+"Montréal, Québec","Montréal, Québec","montréal, québec",ambiguous,,
+失业要饭QQ邮箱：867907127@qq.com,失业要饭QQ邮箱：867907127@qq.com,失业要饭qq邮箱:867907127@qq.com,ambiguous,,
+"Princeton, NJ","Princeton, NJ","princeton, nj",valid,US,United States
+Pittsburgh PA / DC,Pittsburgh PA / DC,"pittsburgh pa , dc",valid,US,United States
+"Porto-Novo, Benin","Porto-Novo, Benin","porto-novo, benin",valid,BJ,Benin
+Globe,Globe,globe,ambiguous,,
+"Chattanooga, TN","Chattanooga, TN","chattanooga, tn",valid,US,United States
+"Montreal, CA","Montreal, CA","montreal, ca",valid,US,United States
+"Germany, Berlin","Germany, Berlin","germany, berlin",valid,DE,Germany
+Goiânia,Goiânia,goiânia,ambiguous,,
+Rabat,Rabat,rabat,ambiguous,,
+india ; kuwait ; dubai,india ; kuwait ; dubai,"india , kuwait , dubai",valid,IN,India
+"Redwood City, California, United States","Redwood City, California, United States","redwood city, california, united states",valid,US,United States
+"Daegu, South Korea","Daegu, South Korea","daegu, south korea",valid,KR,"Korea, Republic of"
+"Mumbai, Maharashtra, India","Mumbai, Maharashtra, India","mumbai, maharashtra, india",valid,IN,India
+"Palo Alto, CA","Palo Alto, CA","palo alto, ca",valid,US,United States
+Montreal,Montreal,montreal,ambiguous,,
+"Abu Dhabi, United Arab Emirates","Abu Dhabi, United Arab Emirates","abu dhabi, united arab emirates",valid,AE,United Arab Emirates
+"Basque Country, Spain","Basque Country, Spain","basque country, spain",valid,ES,Spain
+"Santa Clara, CA, USA","Santa Clara, CA, USA","santa clara, ca, usa",valid,US,United States
+Mahattan,Mahattan,mahattan,ambiguous,,
+"Gothenburg, Sweden","Gothenburg, Sweden","gothenburg, sweden",valid,SE,Sweden
+"Menlo Park, CA","Menlo Park, CA","menlo park, ca",valid,US,United States
+Copenhagen,Copenhagen,copenhagen,ambiguous,,
+"Seoul, Pangyo / Chung Ang Univ.","Seoul, Pangyo / Chung Ang Univ.","seoul, pangyo , chung ang univ",ambiguous,,
+Butwal,Butwal,butwal,ambiguous,,
+Abu Dhabi | New York,Abu Dhabi | New York,"abu dhabi , new york",ambiguous,,
+"Gresham, Oregon, United States","Gresham, Oregon, United States","gresham, oregon, united states",valid,US,United States
+"Skopje, Macedonia","Skopje, Macedonia","skopje, macedonia",ambiguous,,
+"Pune,Maharashtra,India","Pune,Maharashtra,India","pune,maharashtra,india",valid,IN,India
+Fredericton,Fredericton,fredericton,ambiguous,,
+Xi'An China,Xi'An China,xian china,valid,CN,China
+Aurangabad,Aurangabad,aurangabad,ambiguous,,
+"Grand Rapids, MI","Grand Rapids, MI","grand rapids, mi",valid,US,United States
+Brescia,Brescia,brescia,ambiguous,,
+"Soochow,China","Soochow,China","soochow,china",valid,CN,China
+"Tamil Nadu, India","Tamil Nadu, India","tamil nadu, india",valid,IN,India
+"New York, USA","New York, USA","new york, usa",valid,US,United States
+Enna,Enna,enna,ambiguous,,
+ThinkingGame,ThinkingGame,thinkinggame,ambiguous,,
+florida,florida,florida,valid,US,United States
+"Shenzhen,China","Shenzhen,China","shenzhen,china",valid,CN,China
+"Ioannina, Greece","Ioannina, Greece","ioannina, greece",valid,GR,Greece
+Nuremberg,Nuremberg,nuremberg,ambiguous,,
+"Jakarta, Indonesia","Jakarta, Indonesia","jakarta, indonesia",valid,ID,Indonesia
+Would love to work at new location ,Would love to work at new location ,would love to work at new location,ambiguous,,
+"Brno, Czech Republic","Brno, Czech Republic","brno, czech republic",valid,CZ,Czechia
+"Guangzhou, Guangdong, China","Guangzhou, Guangdong, China","guangzhou, guangdong, china",valid,CN,China
+Italy,Italy,italy,valid,IT,Italy
+"Tel Aviv, Israel","Tel Aviv, Israel","tel aviv, israel",valid,IL,Israel
+深圳,深圳,深圳,ambiguous,,
+Islambad,Islambad,islambad,ambiguous,,
+Tamilnadu,Tamilnadu,tamilnadu,ambiguous,,
+"Bucaramanga, Colombia","Bucaramanga, Colombia","bucaramanga, colombia",valid,CO,Colombia
+united states,united states,united states,valid,US,United States
+"Sunnyvale, California","Sunnyvale, California","sunnyvale, california",valid,US,United States
+Astana,Astana,astana,ambiguous,,
+"Karlsruhe, Germany","Karlsruhe, Germany","karlsruhe, germany",valid,DE,Germany
+"Atlanta, Georgia, USA","Atlanta, Georgia, USA","atlanta, georgia, usa",valid,US,United States
+"Auburn, AL USA","Auburn, AL USA","auburn, al usa",valid,US,United States
+"stockholm, sweden","stockholm, sweden","stockholm, sweden",valid,SE,Sweden
+United States of America ,United States of America ,united states of america,valid,US,United States
+CA,CA,ca,valid,US,United States
+"IIT (BHU), Varanasi","IIT (BHU), Varanasi","iit (bhu), varanasi",ambiguous,,
+"Baltimore, Maryland USA","Baltimore, Maryland USA","baltimore, maryland usa",valid,US,United States
+SoCal,SoCal,socal,ambiguous,,
+Mt. Peterson,Mt. Peterson,mt. peterson,ambiguous,,
+"Dortmund, Germany","Dortmund, Germany","dortmund, germany",valid,DE,Germany
+Kochi,Kochi,kochi,ambiguous,,
+"Ulsan, Republic of Korea (South Korea)","Ulsan, Republic of Korea (South Korea)","ulsan, republic of korea (south korea)",valid,KR,"Korea, Republic of"
+"Amsterdam, the Netherlands","Amsterdam, the Netherlands","amsterdam, the netherlands",valid,NL,Netherlands
+"Cádiz, Andalucía, Spain","Cádiz, Andalucía, Spain","cádiz, andalucía, spain",valid,ES,Spain
+"Evreux,Haute Normandie,France","Evreux,Haute Normandie,France","evreux,haute normandie,france",valid,FR,France
+HCM City,HCM City,hcm city,ambiguous,,
+Lleida,Lleida,lleida,ambiguous,,
+Frankfurt,Frankfurt,frankfurt,ambiguous,,
+$HOME,$HOME,$home,non-geographic,,
+成都,成都,成都,ambiguous,,
+"Hamburg, Germany","Hamburg, Germany","hamburg, germany",valid,DE,Germany
+"Den Haag, Netherlands","Den Haag, Netherlands","den haag, netherlands",valid,NL,Netherlands
+Darmstadt,Darmstadt,darmstadt,ambiguous,,
+"Vienna, AT and Sheffield, UK","Vienna, AT and Sheffield, UK","vienna, at and sheffield, uk",valid,GB,United Kingdom
+"Oak Ridge, TN","Oak Ridge, TN","oak ridge, tn",valid,US,United States
+"Pietrasanta, Italy","Pietrasanta, Italy","pietrasanta, italy",valid,IT,Italy
+"Irvine, CA","Irvine, CA","irvine, ca",valid,US,United States
+"Iowa City, IA","Iowa City, IA","iowa city, ia",valid,US,United States
+"Durham, NC","Durham, NC","durham, nc",valid,US,United States
+Graz,Graz,graz,ambiguous,,
+Chicago,Chicago,chicago,ambiguous,,
+IRAN,IRAN,iran,valid,IR,"Iran, Islamic Republic of"
+"Toronto, Ontario, Canada","Toronto, Ontario, Canada","toronto, ontario, canada",valid,CA,Canada
+"Glasgow, UK","Glasgow, UK","glasgow, uk",valid,GB,United Kingdom
+Chengdu,Chengdu,chengdu,ambiguous,,
+Luxembourg,Luxembourg,luxembourg,valid,LU,Luxembourg
+"Sheffield, United Kingdom","Sheffield, United Kingdom","sheffield, united kingdom",valid,GB,United Kingdom
+Croatia,Croatia,croatia,valid,HR,Croatia
+Beijing ,Beijing ,beijing,ambiguous,,
+Moscow / Remote,Moscow / Remote,"moscow , remote",non-geographic,,
+North Carolina,North Carolina,north carolina,ambiguous,,
+Kyiv,Kyiv,kyiv,ambiguous,,
+Near The Nature.,Near The Nature.,near the nature,ambiguous,,
+Nakhon Nayok,Nakhon Nayok,nakhon nayok,ambiguous,,
+Mercury,Mercury,mercury,ambiguous,,
+"Coruña, Spain","Coruña, Spain","coruña, spain",valid,ES,Spain
+Taipei,Taipei,taipei,ambiguous,,
+Dhahran,Dhahran,dhahran,ambiguous,,
+"New York , USA","New York , USA","new york , usa",valid,US,United States
+localhost,localhost,localhost,ambiguous,,
+shaghai,shaghai,shaghai,ambiguous,,
+Los Angeles/CA,Los Angeles/CA,"los angeles,ca",valid,US,United States
+Ho Chi Minh City,Ho Chi Minh City,ho chi minh city,ambiguous,,
+"Buffalo, New York","Buffalo, New York","buffalo, new york",ambiguous,,
+"Izmir, Turkey","Izmir, Turkey","izmir, turkey",ambiguous,,
+"No. 2 South Taibai Road, Xi’an, Shaanxi","No. 2 South Taibai Road, Xi’an, Shaanxi","no. 2 south taibai road, xi’an, shaanxi",ambiguous,,
+"Russia, Moscow","Russia, Moscow","russia, moscow",valid,RU,Russian Federation
+"Providence, RI","Providence, RI","providence, ri",valid,US,United States
+"Chikkamagaluru, Karnataka, India","Chikkamagaluru, Karnataka, India","chikkamagaluru, karnataka, india",valid,IN,India
+China.ShenZhen,China.ShenZhen,china.shenzhen,ambiguous,,
+"Stillwater, Oklahoma, United States","Stillwater, Oklahoma, United States","stillwater, oklahoma, united states",valid,US,United States
+"Tilburg, The Netherlands","Tilburg, The Netherlands","tilburg, the netherlands",valid,NL,Netherlands
+哈尔滨,哈尔滨,哈尔滨,ambiguous,,
+New York,New York,new york,ambiguous,,
+Milan,Milan,milan,ambiguous,,
+Regensburg,Regensburg,regensburg,ambiguous,,
+"Iran , Tehran","Iran , Tehran","iran , tehran",valid,IR,"Iran, Islamic Republic of"
+Somewhere on earth,Somewhere on earth,somewhere on earth,non-geographic,,
+shenzhen.china,shenzhen.china,shenzhen.china,ambiguous,,
+"Jamova cesta 39, 1000 Ljubljana","Jamova cesta 39, 1000 Ljubljana","jamova cesta 39, 1000 ljubljana",ambiguous,,
+Düsseldorf,Düsseldorf,düsseldorf,ambiguous,,
+"Cambridge, Ma","Cambridge, Ma","cambridge, ma",valid,US,United States
+BJ.CH,BJ.CH,bj.ch,ambiguous,,
+"Bellevue, Washington","Bellevue, Washington","bellevue, washington",valid,US,United States
+"Varaždin, Croatia","Varaždin, Croatia","varaždin, croatia",valid,HR,Croatia
+Colombia,Colombia,colombia,valid,CO,Colombia
+"Seattle, WA, USA","Seattle, WA, USA","seattle, wa, usa",valid,US,United States
+beijing,beijing,beijing,ambiguous,,
+"Saarbrucken, Germany","Saarbrucken, Germany","saarbrucken, germany",valid,DE,Germany
+maldives,maldives,maldives,valid,MV,Maldives
+Donostia/San Sebastián,Donostia/San Sebastián,"donostia,san sebastián",ambiguous,,
+Stara Zagora Bulgaria,Stara Zagora Bulgaria,stara zagora bulgaria,valid,BG,Bulgaria
+simulation,simulation,simulation,ambiguous,,
+"Moscow, Russia","Moscow, Russia","moscow, russia",valid,RU,Russian Federation
+Somewhere I Belong,Somewhere I Belong,somewhere i belong,ambiguous,,
